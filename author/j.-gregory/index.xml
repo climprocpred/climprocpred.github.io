@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Gregory | Climate &amp; Ocean Physics @ NYU</title>
+    <link>https://LaureZanna.github.io/author/j.-gregory/</link>
+      <atom:link href="https://LaureZanna.github.io/author/j.-gregory/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Gregory</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2017 Laure Zanna</copyright><lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://LaureZanna.github.io/images/icon_hu94c9def8747c8eeffeb23865e7c78c07_8643_512x512_fill_lanczos_center_2.png</url>
+      <title>J. Gregory</title>
+      <link>https://LaureZanna.github.io/author/j.-gregory/</link>
+    </image>
+    
+    <item>
+      <title>Oceanic stochastic parametrizations in a seasonal forecast system</title>
+      <link>https://LaureZanna.github.io/publication/todd-et-al-2020/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/todd-et-al-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global reconstruction of historical ocean heat storage and transport</title>
+      <link>https://LaureZanna.github.io/publication/zanna-et-al-2017b/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/zanna-et-al-2017b/</guid>
+      <description>&lt;p&gt;In this work, we attempt to 1) extend global estimates of ocean warming before 1950s; 2) infer how changes in ocean circulation can shape patterns of ocean warming and sea level.&lt;/p&gt;
+&lt;p&gt;We created a model based on a technique which maps information between the surface of the ocean and its interior. The model is informed by a combination of observations and computer simulations.&lt;/p&gt;
+&lt;p&gt;Our findings suggest that 1) the ocean has gained energy equivalent to roughly 436 $\times$ 10$^{21}$ Joules from 1871 to present, and that 2) changes in ocean processes (currents + mixing) have occured in the past 60 yrs affecting regional sea level rise in the Atlantic Oceean. While we have identified changes in ocean tranport in the past 60 years, we cannot directly attribute the changes to natural variability or externally-forced climate change.&lt;/p&gt;
+&lt;p&gt;Our method is obviously subject to uncertainty from many different sources (described in detail in the manuscript). However our results are consistent with direct interior temperature measurements giving us some confidence in the method.&lt;/p&gt;
+&lt;p&gt;Much work remains to be done to understand observed and predicted patterns of ocean warming and thermosteric sea level rise, which our method can hopefully help address.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

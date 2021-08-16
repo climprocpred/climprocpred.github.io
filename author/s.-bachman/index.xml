@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Bachman | Climate &amp; Ocean Physics @ NYU</title>
+    <link>https://LaureZanna.github.io/author/s.-bachman/</link>
+      <atom:link href="https://LaureZanna.github.io/author/s.-bachman/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Bachman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2017 Laure Zanna</copyright><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://LaureZanna.github.io/images/icon_hu94c9def8747c8eeffeb23865e7c78c07_8643_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Bachman</title>
+      <link>https://LaureZanna.github.io/author/s.-bachman/</link>
+    </image>
+    
+    <item>
+      <title>The relationship between a deformation-based eddy parametrization and the LANS-alpha turbulence model</title>
+      <link>https://LaureZanna.github.io/publication/bachman-et-al-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/bachman-et-al-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

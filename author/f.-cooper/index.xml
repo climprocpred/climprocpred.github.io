@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Cooper | Climate &amp; Ocean Physics @ NYU</title>
+    <link>https://LaureZanna.github.io/author/f.-cooper/</link>
+      <atom:link href="https://LaureZanna.github.io/author/f.-cooper/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Cooper</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2017 Laure Zanna</copyright><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://LaureZanna.github.io/images/icon_hu94c9def8747c8eeffeb23865e7c78c07_8643_512x512_fill_lanczos_center_2.png</url>
+      <title>F. Cooper</title>
+      <link>https://LaureZanna.github.io/author/f.-cooper/</link>
+    </image>
+    
+    <item>
+      <title>Oceanic stochastic parametrizations in a seasonal forecast system</title>
+      <link>https://LaureZanna.github.io/publication/andrejczuk-et-al-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/andrejczuk-et-al-2016/</guid>
+      <description>&lt;p&gt;Model uncertainty is one of the main sources of uncertainty in ensemble prediction on seasonal to decadal timescales.
+Here, we quantify model uncertainty in the ocean component of a seasonal forecast system by introducing a range of stochastic parametrizations.
+The stochastic parametrizations help increase the spread of the ensemble and reduce error.
+We find that the stochastically perturbed parameterization tendency (SPPT) schemes provided the largest impact on the model spread and bias. We also suggest new ways to reduce forecast error.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimisation of an idealised ocean model: stochastic parametrisation of sud-grid eddies</title>
+      <link>https://LaureZanna.github.io/publication/cooper-et-al-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/cooper-et-al-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

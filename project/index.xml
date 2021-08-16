@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Climate &amp; Ocean Physics @ NYU</title>
+    <link>https://LaureZanna.github.io/project/</link>
+      <atom:link href="https://LaureZanna.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2017 Laure Zanna</copyright><lastBuildDate>Thu, 28 Jan 2021 10:13:19 -0500</lastBuildDate>
+    <image>
+      <url>https://LaureZanna.github.io/images/icon_hu94c9def8747c8eeffeb23865e7c78c07_8643_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://LaureZanna.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>M2LInES: ML for Climate</title>
+      <link>https://LaureZanna.github.io/project/m2lines/</link>
+      <pubDate>Thu, 28 Jan 2021 10:13:19 -0500</pubDate>
+      <guid>https://LaureZanna.github.io/project/m2lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate Process Team</title>
+      <link>https://LaureZanna.github.io/project/cptoceaneddies/</link>
+      <pubDate>Mon, 30 Nov 2020 10:13:19 -0500</pubDate>
+      <guid>https://LaureZanna.github.io/project/cptoceaneddies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate Variability</title>
+      <link>https://LaureZanna.github.io/project/variability/</link>
+      <pubDate>Mon, 30 Nov 2020 10:13:19 -0500</pubDate>
+      <guid>https://LaureZanna.github.io/project/variability/</guid>
+      <description>&lt;p&gt;In addition to its role played in heat and carbon uptake, the
+large-scale ocean circulation in the Atlantic is an important driver
+of European climate variability on interannual and decadal
+timescales. Yet, the importance of its influence remains unclear due
+in part to the short historical record and the poor representation of
+this variability in climate simulations. To explore the large
+discrepancies between coupled general circulation models (GCMs) in
+their representation of the meridional overturning circulation (MOC)
+decadal variability and predictions in the Atlantic sector, we have
+introduced new diagnostic and numerical tools. Some of the questions
+we are interested include:&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Which processes (e.g., atmosphere, ocean mixed layer, ocean
+currents) drive decadal variability (e.g., Atlantic Multidecadal
+Variability)?  (e.g., [MacMartin et al. 2013]
+(&lt;a href=&#34;https://laurezanna.github.io/publication/macmartin-et-al-2013/),&#34;&gt;https://laurezanna.github.io/publication/macmartin-et-al-2013/),&lt;/a&gt;
+[O’Reilly et al. 2016]
+(&lt;a href=&#34;https://laurezanna.github.io/publication/oreilly-et-al-2016/&#34;&gt;https://laurezanna.github.io/publication/oreilly-et-al-2016/&lt;/a&gt;))&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Why is the decadal ocean variability in model low compared to
+observations? (&lt;a href=&#34;https://laurezanna.github.io/publication/oreilly-zanna-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;O&amp;rsquo;Reilly and Zanna,
+2018&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&amp;ndash; How remote variability in the Tropical Pacific impacts European
+weather?  (e.g.,
+[O’Reilly et al. 2018]
+(&lt;a href=&#34;https://laurezanna.github.io/publication/oreilly-et-al-2018/&#34;&gt;https://laurezanna.github.io/publication/oreilly-et-al-2018/&lt;/a&gt;))&lt;/p&gt;
+&lt;p&gt;&amp;ndash; What are the roles of air-sea feedback at high-latitudes? (e.g.,
+[O’Reilly et al. 2016]
+(&lt;a href=&#34;https://laurezanna.github.io/publication/oreilly-et-al-2016/&#34;&gt;https://laurezanna.github.io/publication/oreilly-et-al-2016/&lt;/a&gt;))&lt;/p&gt;
+&lt;p&gt;&amp;ndash; How does anthropogenic forcing impact the variability of ocean
+circulation?  (e.g., [MacMartin et al. 2016]
+(&lt;a href=&#34;https://laurezanna.github.io/publication/macmartin-et-al-2016/&#34;&gt;https://laurezanna.github.io/publication/macmartin-et-al-2016/&lt;/a&gt;))&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science &amp; Climate</title>
+      <link>https://LaureZanna.github.io/project/machinelearning/</link>
+      <pubDate>Mon, 30 Nov 2020 10:13:19 -0500</pubDate>
+      <guid>https://LaureZanna.github.io/project/machinelearning/</guid>
+      <description>&lt;p&gt;We work on data-driven methods to undertand and predict climate. The tools we use range from probabilistic models informed by data to machine learning algorithms (e.g., neural networks).&lt;/p&gt;
+&lt;p&gt;Some of our data-driven work include:&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Simple statistical models for prediction of seasonal to decadal sea surface temperatures in the Atlantic (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/zanna-2012/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zanna 2012&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/huddart-et-al-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huddart et al. 2016&lt;/a&gt;) and Pacific (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/dias-et-al-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dias et al. 2018&lt;/a&gt;), and sea level (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/fraser-et-al-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fraser et al. 2019&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Data-driven scale- and flow-aware  determinitic and stochastic parametrizations of ocean turbulence (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/portamana-zanna-2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Porta Mana &amp;amp; Zanna 2014&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/zanna-et-al-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zanna et al. 2017&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/david-et-al-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David et al. 2017&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Data inference using machine learning (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/bolton-zanna-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bolton and Zanna, 2019&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Representation of climate processes with Neural Net and Equation-Discovery (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/bolton-zanna-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bolton and Zanna, 2019&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/bolton-zanna-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bolton and Zanna, 2019&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;We are actively using machine learning and more generally data-driven tools to address some of our favorite problems related to parameterization of turbulent processes, interannual to decadal prediction, and forecasting of extreme events.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Extreme Events</title>
+      <link>https://LaureZanna.github.io/project/extremeevents/</link>
+      <pubDate>Mon, 30 Nov 2020 10:13:19 -0500</pubDate>
+      <guid>https://LaureZanna.github.io/project/extremeevents/</guid>
+      <description>&lt;p&gt;We observe and predict a range of extremes events in precipitation, sea level, and air or ocean temperatures. Some of these events are rare but are of large amplitudes. Sampling their statistics and undertanding their dynamical drivers are important for climate detection, attribution and adaption. These extreme events are a reflection of the complex and non-linear dynamics governing the climate system. We are interested in addressing the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;What are the dynamical drivers of the extreme events in sea surface
+temperatures or sea level? (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/rodrigues-et-al-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rodrigues et al. 2019&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/yin-et-al-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yin et al. 2019&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How anthropogenic climate change has affected or will affect extreme events in the ocean and atmosphere? (&lt;a href=&#34;https://laurezanna.github.io/publication/yin-et-al-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yin et al. 2019&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How to best describe forced-dissipative turbulent system from their
+statistics? (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/david-et-al-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David et al. 2018&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/david-et-al-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David et al. 2017&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mentoring &#43; DEI Activities</title>
+      <link>https://LaureZanna.github.io/project/mentoring&#43;dei/</link>
+      <pubDate>Mon, 30 Nov 2020 10:13:19 -0500</pubDate>
+      <guid>https://LaureZanna.github.io/project/mentoring&#43;dei/</guid>
+      <description>&lt;p&gt;Selected programs that we participate in and might be of interest to our community&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NYU CDS Undergraduate Research Program (&lt;a href=&#34;https://github.com/LaureZanna/starter-academic/new/master/content/project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CURP&lt;/a&gt;) in partnership with the National Society of Black Physicists (NSBP);&lt;/li&gt;
+&lt;li&gt;Unlearning Racism in Geoscience (&lt;a href=&#34;https://urgeoscience.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;URGE&lt;/a&gt;);&lt;/li&gt;
+&lt;li&gt;Mentoring Physical Oceanography Women to Increase Retention (&lt;a href=&#34;http://mpowir.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MPOWIR&lt;/a&gt;);&lt;/li&gt;
+&lt;li&gt;NYU &lt;a href=&#34;https://cas.nyu.edu/content/nyu-as/cas/proudtobefirst.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proud to be First&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ocean Turbulence</title>
+      <link>https://LaureZanna.github.io/project/turbulence/</link>
+      <pubDate>Mon, 30 Nov 2020 10:13:19 -0500</pubDate>
+      <guid>https://LaureZanna.github.io/project/turbulence/</guid>
+      <description>&lt;p&gt;Ocean mesoscale eddies strongly affect the strength and variability of
+ocean jets such as the Gulf Stream. The spatial scales of eddies are
+too small to be resolved in climate models and hence their effects on
+the large-scale circulation need to be parametrized. The most common
+parametrizations used in coarse-resolution models are not adequate for
+the current generation of models, in which eddies are partially
+resolved. Furthermore, eddies are turbulent and stochastic in nature
+however current bulk parametrizations of mesoscale eddies are
+deterministic and do not account for subgrid transport fluctuations or
+upscale turbulent cascades therefore leading to model error in the
+representation of present and future climate change. The group is
+developing new parametrizations which specifically account for such
+effects and for model error associated with the uncertainty in the
+parametrizations. The parametrizations are constructed by using first
+principles, statistical mechanics, and high-resolution model outputs.&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Quantifying the ocean turbulence and energy transfer (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/kjellsson-zanna-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kjellsson and Zanna 2017&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Probabilistic representation and parameterization of ocean turbulence (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/portamana-zanna-2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Porta Mana &amp;amp; Zanna 2014&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/zanna-et-al-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zanna et al. 2017&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/david-et-al-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David et al. 2017&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oceans in Climate Change</title>
+      <link>https://LaureZanna.github.io/project/climate-change/</link>
+      <pubDate>Mon, 30 Nov 2020 10:13:19 -0500</pubDate>
+      <guid>https://LaureZanna.github.io/project/climate-change/</guid>
+      <description>&lt;p&gt;The oceans are a major sink of heat and carbon, able to delay climate change. The role of ocean heat uptake remains central in quantifying both the magnitude and timescale of the local and global climate response to forcing.&lt;/p&gt;
+&lt;p&gt;One main focus of our work is address fundamental questions such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;What is the role of the ocean circulation is shaping patterns of heat, salinity, carbon and oxygen storage? (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/bronselaer-zanna-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bronselaer &amp;amp; Zanna, 2020&lt;/a&gt;; &lt;a href=&#34;https://laurezanna.github.io/publication/zanna-et-al-2017b/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zanna et al, 2019&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What drives the uncertainty in projections of ocean heat uptake and thermosteric sea level change? (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/huber-zanna-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huber and Zanna, 2017&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Which physical processes govern the timescale of adjustment of the  ocean under climate change? (e.g., &lt;a href=&#34;https://laurezanna.github.io/files/Marshall-Zanna-2014.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marshall and Zanna, 2014&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How does the surface forcing and ocean dynamics influence the air-sea fluxes of carbon? (e.g., &lt;a href=&#34;https://laurezanna.github.io/files/Bronselaer_et_al-2016.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bronselaer et al, 2016&lt;/a&gt;; &lt;a href=&#34;https://laurezanna.github.io/files/Bronselaer-et-al-2018.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bronselaer et al, 2017&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predictability</title>
+      <link>https://LaureZanna.github.io/project/predictability/</link>
+      <pubDate>Mon, 30 Nov 2020 10:13:19 -0500</pubDate>
+      <guid>https://LaureZanna.github.io/project/predictability/</guid>
+      <description>&lt;p&gt;Climate projections are subject to three sources of uncertainties:
+initial condition, model and scenario. Our research is concerned with
+the first two kinds of errors. Specifically, how do the lack of ocean
+observations, the chaotic nature of the climate system and the poor
+representation of subgrid turbulent processes impact predictions on
+intra-seasonal to centennial timescales. Being able to quantify the
+predictability limits of the ocean is crucial for providing reliable
+climate predictions. We use theory, observations and numerical
+simulations to assess the uncertainties associated the ocean dynamics.&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Simple statistical models for prediction of seasonal to decadal sea surface temperatures in the Atlantic (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/zanna-2012/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zanna 2012&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/huddart-et-al-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huddart et al. 2016&lt;/a&gt;) and Pacific (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/dias-et-al-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dias et al. 2018&lt;/a&gt;), and sea level (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/fraser-et-al-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fraser et al. 2019&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Quantification of uncertainty associated with initial conditions
+and model parameterization (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/zanna-et-al-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zanna et
+al. 2018&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Climate Predictions</title>
+      <link>https://LaureZanna.github.io/project/oceanensembles/</link>
+      <pubDate>Mon, 30 Nov 2020 10:13:19 -0500</pubDate>
+      <guid>https://LaureZanna.github.io/project/oceanensembles/</guid>
+      <description>&lt;p&gt;We have developed several approaches to think about climate dynamics
+and prediction in a probability way with various ensemble techniques:&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Representing uncertainty in initial conditions for ocean predictions (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/tziperman-et-al-2008/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tziperman et al. 2008&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/zanna-et-al-2011/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zanna et al. 2011&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/zanna-et-al-2012/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zanna et al. 2012&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Representing model uncertainty for seasonal forecast (e.g., &lt;a href=&#34;andrejczuk-et-al-2016/&#34;&gt;Andrejczuk et al. 2016&lt;/a&gt;), interannual (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/juricke-et-al-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Juricke et al. 2018&lt;/a&gt;) and decadal forecast (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/juricke-et-al-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Juricke et al. 2017&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&amp;ndash; The role of ocean stochastic or chaotic processes on decadal variability (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/juricke-et-al-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Juricke 2017&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/zanna-et-al-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zanna et al. 2018&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&amp;ndash; The role of uncertainty from air-sea fluxes and model structure (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/huber-zanna-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huber and Zanna, 2017&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/zanna-et-al-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zanna et al. 2018&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Probabilistic representation and parameterization of ocean turbulence (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/portamana-zanna-2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Porta Mana &amp;amp; Zanna 2014&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/zanna-et-al-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zanna et al. 2017&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/david-et-al-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David et al. 2017&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sea Level</title>
+      <link>https://LaureZanna.github.io/project/sealevel/</link>
+      <pubDate>Mon, 30 Nov 2020 10:13:19 -0500</pubDate>
+      <guid>https://LaureZanna.github.io/project/sealevel/</guid>
+      <description>&lt;p&gt;As anthropogenic emissions increase, the temperature of the planet
+increases. As a result, ice melt and thermal expansion of the oceans
+leads to sea level rise. Regionally, sea level changes due to local
+forcing from the atmosphere, changes in ocean circulations, and ocean
+bathymetry. We are interested in several aspects of sea level dynamics
+such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;How predictable is sea level dynamics on seasonal to decadal timescales? (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/fraser-et-al-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fraser et al, 2019&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/zanna-et-al-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zanna et al. 2018&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Which dynamical drivers dominate sea level change on the continental shelves? and how these signals relate to change in the ocean interior? (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/ponte-et-al-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ponte et al. 2019&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/fraser-et-al-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fraser et al, 2019&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What drives the uncertainty in projections of thermosteric sea level change? (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/huber-zanna-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huber and Zanna, 2017&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/carson-et-al-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carson et al., 2019&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How does ocean dynamics shapes patterns of regional sea level? How does natural variability masks anthropogenic signal of regional sea level? (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/zanna-et-al-2017b/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zanna et al. 2019&lt;/a&gt;, &lt;a href=&#34;https://laurezanna.github.io/publication/carson-et-al-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carson et al., 2019&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;ndash; How sensitive coastal surges are to atmospheric forcing?  (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/wilson-et-al-2013/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wilson et al. 2013&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TICTOC</title>
+      <link>https://LaureZanna.github.io/project/tactic/</link>
+      <pubDate>Mon, 30 Nov 2020 10:13:19 -0500</pubDate>
+      <guid>https://LaureZanna.github.io/project/tactic/</guid>
+      <description>&lt;p&gt;More info soon on NERC project &lt;a href=&#34;http://gtr.rcuk.ac.uk/projects?ref=NE%2FP019218%2F1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TICTOC&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UKFAFMIP</title>
+      <link>https://LaureZanna.github.io/project/fafmip/</link>
+      <pubDate>Mon, 30 Nov 2020 10:13:19 -0500</pubDate>
+      <guid>https://LaureZanna.github.io/project/fafmip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

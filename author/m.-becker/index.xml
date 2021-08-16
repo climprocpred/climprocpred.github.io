@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Becker | Climate &amp; Ocean Physics @ NYU</title>
+    <link>https://LaureZanna.github.io/author/m.-becker/</link>
+      <atom:link href="https://LaureZanna.github.io/author/m.-becker/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Becker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2017 Laure Zanna</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://LaureZanna.github.io/images/icon_hu94c9def8747c8eeffeb23865e7c78c07_8643_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Becker</title>
+      <link>https://LaureZanna.github.io/author/m.-becker/</link>
+    </image>
+    
+    <item>
+      <title>Climate model uncertainty and trend detection of regional sea level projections in the open ocean and coastal zone</title>
+      <link>https://LaureZanna.github.io/publication/carson-et-al-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/carson-et-al-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

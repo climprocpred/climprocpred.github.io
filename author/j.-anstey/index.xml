@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Anstey | Climate &amp; Ocean Physics @ NYU</title>
+    <link>https://LaureZanna.github.io/author/j.-anstey/</link>
+      <atom:link href="https://LaureZanna.github.io/author/j.-anstey/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Anstey</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2017 Laure Zanna</copyright><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://LaureZanna.github.io/images/icon_hu94c9def8747c8eeffeb23865e7c78c07_8643_512x512_fill_lanczos_center_2.png</url>
+      <title>J. Anstey</title>
+      <link>https://LaureZanna.github.io/author/j.-anstey/</link>
+    </image>
+    
+    <item>
+      <title>The relationship between a deformation-based eddy parametrization and the LANS-alpha turbulence model</title>
+      <link>https://LaureZanna.github.io/publication/bachman-et-al-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/bachman-et-al-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A deformation-based parametrization of ocean mesoscale eddy Reynolds stresses</title>
+      <link>https://LaureZanna.github.io/publication/anstey-zanna-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/anstey-zanna-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale-Aware Deterministic and Stochastic Parametrizations of Eddy-Mean Flow Interaction</title>
+      <link>https://LaureZanna.github.io/publication/zanna-et-al-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/zanna-et-al-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

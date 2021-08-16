@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Climate &amp; Ocean Physics @ NYU</title>
+    <link>https://LaureZanna.github.io/publication-type/2/</link>
+      <atom:link href="https://LaureZanna.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2017 Laure Zanna</copyright><lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://LaureZanna.github.io/images/icon_hu94c9def8747c8eeffeb23865e7c78c07_8643_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://LaureZanna.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Applications of Deep Learning to Ocean Data Inference and Subgrid Parameterization</title>
+      <link>https://LaureZanna.github.io/publication/guillaumin-zanna-2021/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/guillaumin-zanna-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What causes the spread of model projections of sea level change in response to greenhouse gas forcing?</title>
+      <link>https://LaureZanna.github.io/publication/couldrey-et-al-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/couldrey-et-al-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Driven Equation Discovery of Ocean Mesoscale Closures</title>
+      <link>https://LaureZanna.github.io/publication/zanna-bolton-2020/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/zanna-bolton-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oceanic stochastic parametrizations in a seasonal forecast system</title>
+      <link>https://LaureZanna.github.io/publication/todd-et-al-2020/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/todd-et-al-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heat and carbon coupling reveals ocean warming patterns due to circulation changes</title>
+      <link>https://LaureZanna.github.io/publication/bronselaer-zanna-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/bronselaer-zanna-2020/</guid>
+      <description>&lt;p&gt;Data from Bronselaer and Zanna can be found here: &lt;a href=&#34;https://zenodo.org/record/3981292#.X8xWkS2cYn0&#34;&gt;https://zenodo.org/record/3981292#.X8xWkS2cYn0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The causes of sea-level rise since 1900</title>
+      <link>https://LaureZanna.github.io/publication/fredericksen-et-al-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/fredericksen-et-al-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attribution of North Atlantic surface temperature</title>
+      <link>https://LaureZanna.github.io/publication/chemke-et-al-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/chemke-et-al-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiative effects of clouds and water vapor on the monsoon</title>
+      <link>https://LaureZanna.github.io/publication/byrne-zanna-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/byrne-zanna-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surface constraints on the depth of the Atlantic Meridional Overturning Circulation: Southern Ocean vs North Atlantic</title>
+      <link>https://LaureZanna.github.io/publication/sun-et-al-2019/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/sun-et-al-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolving and Parameterising the Ocean Mesoscale in Earth System Models</title>
+      <link>https://LaureZanna.github.io/publication/hewitt-et-al-2020/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/hewitt-et-al-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response of Storm-related Extreme Sea Level along the US Atlantic Coast to Combined Weather and Climate Forcing</title>
+      <link>https://LaureZanna.github.io/publication/yin-et-al-2019/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/yin-et-al-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing external and internal sources of Atlantic Multidecadal Variability using models, proxy data and early instrumental indices</title>
+      <link>https://LaureZanna.github.io/publication/oreilly-et-al-2019/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/oreilly-et-al-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global reconstruction of historical ocean heat storage and transport</title>
+      <link>https://LaureZanna.github.io/publication/zanna-et-al-2017b/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/zanna-et-al-2017b/</guid>
+      <description>&lt;p&gt;In this work, we attempt to 1) extend global estimates of ocean warming before 1950s; 2) infer how changes in ocean circulation can shape patterns of ocean warming and sea level.&lt;/p&gt;
+&lt;p&gt;We created a model based on a technique which maps information between the surface of the ocean and its interior. The model is informed by a combination of observations and computer simulations.&lt;/p&gt;
+&lt;p&gt;Our findings suggest that 1) the ocean has gained energy equivalent to roughly 436 $\times$ 10$^{21}$ Joules from 1871 to present, and that 2) changes in ocean processes (currents + mixing) have occured in the past 60 yrs affecting regional sea level rise in the Atlantic Oceean. While we have identified changes in ocean tranport in the past 60 years, we cannot directly attribute the changes to natural variability or externally-forced climate change.&lt;/p&gt;
+&lt;p&gt;Our method is obviously subject to uncertainty from many different sources (described in detail in the manuscript). However our results are consistent with direct interior temperature measurements giving us some confidence in the method.&lt;/p&gt;
+&lt;p&gt;Much work remains to be done to understand observed and predicted patterns of ocean warming and thermosteric sea level rise, which our method can hopefully help address.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Applications of Deep Learning to Ocean Data Inference and Subgrid Parameterization</title>
+      <link>https://LaureZanna.github.io/publication/bolton-et-al-2019/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/bolton-et-al-2019/</guid>
+      <description>&lt;p&gt;Oceanographic observations are limited by sampling rates, while ocean models are limited by finite resolution and high viscosity and diffusion coefficients. Therefore both data from observations and ocean models lack information at small- and fast-scales.
+Methods are needed to either extract information, extrapolate, or up-scale existing oceanographic datasets, to account for or represent unresolved physical processes.
+Here we use machine learning to leverage observations and model data by predicting unresolved turbulent processes and sub-surface flow fields.
+As a proof-of-concept, we train convolutional neural networks on degraded-data from a high-resolution quasi-geostrophic ocean model.
+We demonstrate that convolutional neural networks successfully replicate the spatio-temporal variability of the sub-grid eddy momentum forcing, are capable of generalising to a range of dynamical behaviours, and can be forced to respect global momentum conservation.
+The training data of our convolutional neural networks can be sub-sampled to 10-20% of the original size without a significant decreasein accuracy.&lt;/p&gt;
+&lt;p&gt;We also show that the sub-surface flow field can be predicted using only information at the surface (e.g., using only satellite altimetry data).
+Our study indicates that data-driven approaches can be exploited to predict both sub-grid and large-scale processes, while respecting physical principles, even when data is limited to a particular region or external forcing. Our in-depth study presents evidence for the successful design of ocean eddy parameterisations for implementation in coarse-resolution climate models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ocean Obs&#39; 2019: Towards comprehensive observing and modeling systems for monitoring and predicting regional to coastal sea level</title>
+      <link>https://LaureZanna.github.io/publication/ponte-et-al-2019/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/ponte-et-al-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regional and Temporal Variability of Lateral Mixing in the North Atlantic</title>
+      <link>https://LaureZanna.github.io/publication/bolton-zanna-2018/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/bolton-zanna-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An interdecadal shift of the extratropical ENSO teleconnection during boreal summer</title>
+      <link>https://LaureZanna.github.io/publication/oreilly-et-al-2019a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/oreilly-et-al-2019a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate model uncertainty and trend detection of regional sea level projections in the open ocean and coastal zone</title>
+      <link>https://LaureZanna.github.io/publication/carson-et-al-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/carson-et-al-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENSO bimodality and extremes</title>
+      <link>https://LaureZanna.github.io/publication/rodrigues-et-al-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/rodrigues-et-al-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictability of North Atlantic Sea Surface Height</title>
+      <link>https://LaureZanna.github.io/publication/fraser-et-al-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/fraser-et-al-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The signature of oceanic processes in decadal extratropical SST anomalies</title>
+      <link>https://LaureZanna.github.io/publication/oreilly-zanna-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/oreilly-zanna-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eddy-mixing entropy and its maximization in forced-dissipative geostrophic turbulence</title>
+      <link>https://LaureZanna.github.io/publication/david-et-al-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/david-et-al-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote and local influences in forecasting Pacific SST: a linear inverse model and a multimodel ensemble study</title>
+      <link>https://LaureZanna.github.io/publication/dias-et-al-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/dias-et-al-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasonal to annual ocean forecasting skill and the role of model and observational uncertainty</title>
+      <link>https://LaureZanna.github.io/publication/juricke-et-al-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/juricke-et-al-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of tropical precipitation on summertime Euro-Atlantic circulation via a circumglobal wave-train</title>
+      <link>https://LaureZanna.github.io/publication/oreilly-et-al-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/oreilly-et-al-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty and Scale Interactions in Ocean Ensembles: From Seasonal Forecasts to Multi-Decadal Climate Predictions</title>
+      <link>https://LaureZanna.github.io/publication/zanna-et-al-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/zanna-et-al-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The relationship between a deformation-based eddy parametrization and the LANS-alpha turbulence model</title>
+      <link>https://LaureZanna.github.io/publication/bachman-et-al-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/bachman-et-al-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Southern Ocean carbon-wind stress feedback</title>
+      <link>https://LaureZanna.github.io/publication/bronselaer-et-al-2017/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/bronselaer-et-al-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lagrangian ocean analysis: fundamentals and practices</title>
+      <link>https://LaureZanna.github.io/publication/vansebille-et-al-2017/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/vansebille-et-al-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamical and thermodynamical influences of the Atlantic Multidecadal Oscillation on continental climate</title>
+      <link>https://LaureZanna.github.io/publication/oreilly-et-al-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/oreilly-et-al-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Horizontal Resolution on Energy Transfers in Global Ocean Models</title>
+      <link>https://LaureZanna.github.io/publication/kjellsson-zanna-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/kjellsson-zanna-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic perturbations to sub-grid scale ocean mixing: Impacts on low frequency variability</title>
+      <link>https://LaureZanna.github.io/publication/juricke-et-al-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/juricke-et-al-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A note on Toward a stochastic parametrization of ocean mesoscale eddies</title>
+      <link>https://LaureZanna.github.io/publication/grooms-zanna-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/grooms-zanna-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The statistical nature of turbulent barotropic ocean jets</title>
+      <link>https://LaureZanna.github.io/publication/david-et-al-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/david-et-al-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A deformation-based parametrization of ocean mesoscale eddy Reynolds stresses</title>
+      <link>https://LaureZanna.github.io/publication/anstey-zanna-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/anstey-zanna-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drivers of uncertainty in simulated ocean circulation and heat uptake</title>
+      <link>https://LaureZanna.github.io/publication/huber-zanna-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/huber-zanna-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale-Aware Deterministic and Stochastic Parametrizations of Eddy-Mean Flow Interaction</title>
+      <link>https://LaureZanna.github.io/publication/zanna-et-al-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/zanna-et-al-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasonal and Decadal Forecasts of Atlantic SST using a Linear Inverse Model</title>
+      <link>https://LaureZanna.github.io/publication/huddart-et-al-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/huddart-et-al-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suppression of Atlantic Meridional Overturning Circulation Variability at increased CO2</title>
+      <link>https://LaureZanna.github.io/publication/macmartin-et-al-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/macmartin-et-al-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of Southern Ocean winds on the North Atlantic carbon sink</title>
+      <link>https://LaureZanna.github.io/publication/bronselaer-et-al-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/bronselaer-et-al-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The signature of low frequency oceanic forcing in the Atlantic Multidecadal Oscillation</title>
+      <link>https://LaureZanna.github.io/publication/oreilly-et-al-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/oreilly-et-al-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oceanic stochastic parametrizations in a seasonal forecast system</title>
+      <link>https://LaureZanna.github.io/publication/andrejczuk-et-al-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/andrejczuk-et-al-2016/</guid>
+      <description>&lt;p&gt;Model uncertainty is one of the main sources of uncertainty in ensemble prediction on seasonal to decadal timescales.
+Here, we quantify model uncertainty in the ocean component of a seasonal forecast system by introducing a range of stochastic parametrizations.
+The stochastic parametrizations help increase the spread of the ensemble and reduce error.
+We find that the stochastically perturbed parameterization tendency (SPPT) schemes provided the largest impact on the model spread and bias. We also suggest new ways to reduce forecast error.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimisation of an idealised ocean model: stochastic parametrisation of sud-grid eddies</title>
+      <link>https://LaureZanna.github.io/publication/cooper-et-al-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/cooper-et-al-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A conceptual model of ocean heat uptake under climate change</title>
+      <link>https://LaureZanna.github.io/publication/marshall-zanna-2014/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/marshall-zanna-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a stochastic parameterization of ocean mesoscale eddies</title>
+      <link>https://LaureZanna.github.io/publication/portamana-zanna-2014/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/portamana-zanna-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tide-surge adjoint modelling: a new technique to understand forecast uncertainty</title>
+      <link>https://LaureZanna.github.io/publication/wilson-et-al-2013/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/wilson-et-al-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency-domain multi-model analysis of the response of Atlantic Meridional overturning circulation to surface forcing</title>
+      <link>https://LaureZanna.github.io/publication/macmartin-et-al-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/macmartin-et-al-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singular Vectors, Predictability and Ensemble Prediction for Weather and Climate</title>
+      <link>https://LaureZanna.github.io/publication/palmer-zanna-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/palmer-zanna-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecast Skill and Predictability of Observed Atlantic Sea Surface Temperatures</title>
+      <link>https://LaureZanna.github.io/publication/zanna-2012/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/zanna-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upper ocean singular vectors of the North Atlantic Climate with Implications for Linear Predictability and Variability</title>
+      <link>https://LaureZanna.github.io/publication/zanna-et-al-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/zanna-et-al-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal excitation of interannual Atlantic meridional overturning circulation variability</title>
+      <link>https://LaureZanna.github.io/publication/zanna-et-al-2011/</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/zanna-et-al-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of ocean dynamics in the optimal growth of tropical SST anomalies</title>
+      <link>https://LaureZanna.github.io/publication/zanna-et-al-2010/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/zanna-et-al-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surface optimal excitation of the thermohaline circulation</title>
+      <link>https://LaureZanna.github.io/publication/zanna-tziperman-2008/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/zanna-tziperman-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non normal thermohaline circulation dynamics in a coupled ocean-atmosphere GCM</title>
+      <link>https://LaureZanna.github.io/publication/tziperman-et-al-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/tziperman-et-al-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non normal amplification of the thermohaline circulation</title>
+      <link>https://LaureZanna.github.io/publication/zanna-tziperman-2005/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/zanna-tziperman-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

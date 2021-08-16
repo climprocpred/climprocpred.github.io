@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Bolton | Climate &amp; Ocean Physics @ NYU</title>
+    <link>https://LaureZanna.github.io/author/t.-bolton/</link>
+      <atom:link href="https://LaureZanna.github.io/author/t.-bolton/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Bolton</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2017 Laure Zanna</copyright><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://LaureZanna.github.io/images/icon_hu94c9def8747c8eeffeb23865e7c78c07_8643_512x512_fill_lanczos_center_2.png</url>
+      <title>T. Bolton</title>
+      <link>https://LaureZanna.github.io/author/t.-bolton/</link>
+    </image>
+    
+    <item>
+      <title>Data Driven Equation Discovery of Ocean Mesoscale Closures</title>
+      <link>https://LaureZanna.github.io/publication/zanna-bolton-2020/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/zanna-bolton-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applications of Deep Learning to Ocean Data Inference and Subgrid Parameterization</title>
+      <link>https://LaureZanna.github.io/publication/bolton-et-al-2019/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/bolton-et-al-2019/</guid>
+      <description>&lt;p&gt;Oceanographic observations are limited by sampling rates, while ocean models are limited by finite resolution and high viscosity and diffusion coefficients. Therefore both data from observations and ocean models lack information at small- and fast-scales.
+Methods are needed to either extract information, extrapolate, or up-scale existing oceanographic datasets, to account for or represent unresolved physical processes.
+Here we use machine learning to leverage observations and model data by predicting unresolved turbulent processes and sub-surface flow fields.
+As a proof-of-concept, we train convolutional neural networks on degraded-data from a high-resolution quasi-geostrophic ocean model.
+We demonstrate that convolutional neural networks successfully replicate the spatio-temporal variability of the sub-grid eddy momentum forcing, are capable of generalising to a range of dynamical behaviours, and can be forced to respect global momentum conservation.
+The training data of our convolutional neural networks can be sub-sampled to 10-20% of the original size without a significant decreasein accuracy.&lt;/p&gt;
+&lt;p&gt;We also show that the sub-surface flow field can be predicted using only information at the surface (e.g., using only satellite altimetry data).
+Our study indicates that data-driven approaches can be exploited to predict both sub-grid and large-scale processes, while respecting physical principles, even when data is limited to a particular region or external forcing. Our in-depth study presents evidence for the successful design of ocean eddy parameterisations for implementation in coarse-resolution climate models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Regional and Temporal Variability of Lateral Mixing in the North Atlantic</title>
+      <link>https://LaureZanna.github.io/publication/bolton-zanna-2018/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/bolton-zanna-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale-Aware Deterministic and Stochastic Parametrizations of Eddy-Mean Flow Interaction</title>
+      <link>https://LaureZanna.github.io/publication/zanna-et-al-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/zanna-et-al-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

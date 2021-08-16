@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. N. Palmer | Climate &amp; Ocean Physics @ NYU</title>
+    <link>https://LaureZanna.github.io/author/t.-n.-palmer/</link>
+      <atom:link href="https://LaureZanna.github.io/author/t.-n.-palmer/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. N. Palmer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2017 Laure Zanna</copyright><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://LaureZanna.github.io/images/icon_hu94c9def8747c8eeffeb23865e7c78c07_8643_512x512_fill_lanczos_center_2.png</url>
+      <title>T. N. Palmer</title>
+      <link>https://LaureZanna.github.io/author/t.-n.-palmer/</link>
+    </image>
+    
+    <item>
+      <title>Seasonal to annual ocean forecasting skill and the role of model and observational uncertainty</title>
+      <link>https://LaureZanna.github.io/publication/juricke-et-al-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/juricke-et-al-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic perturbations to sub-grid scale ocean mixing: Impacts on low frequency variability</title>
+      <link>https://LaureZanna.github.io/publication/juricke-et-al-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/juricke-et-al-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasonal and Decadal Forecasts of Atlantic SST using a Linear Inverse Model</title>
+      <link>https://LaureZanna.github.io/publication/huddart-et-al-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/huddart-et-al-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oceanic stochastic parametrizations in a seasonal forecast system</title>
+      <link>https://LaureZanna.github.io/publication/andrejczuk-et-al-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/andrejczuk-et-al-2016/</guid>
+      <description>&lt;p&gt;Model uncertainty is one of the main sources of uncertainty in ensemble prediction on seasonal to decadal timescales.
+Here, we quantify model uncertainty in the ocean component of a seasonal forecast system by introducing a range of stochastic parametrizations.
+The stochastic parametrizations help increase the spread of the ensemble and reduce error.
+We find that the stochastically perturbed parameterization tendency (SPPT) schemes provided the largest impact on the model spread and bias. We also suggest new ways to reduce forecast error.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Singular Vectors, Predictability and Ensemble Prediction for Weather and Climate</title>
+      <link>https://LaureZanna.github.io/publication/palmer-zanna-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/palmer-zanna-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

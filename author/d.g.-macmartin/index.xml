@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D.G. MacMartin | Climate &amp; Ocean Physics @ NYU</title>
+    <link>https://LaureZanna.github.io/author/d.g.-macmartin/</link>
+      <atom:link href="https://LaureZanna.github.io/author/d.g.-macmartin/index.xml" rel="self" type="application/rss+xml" />
+    <description>D.G. MacMartin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2017 Laure Zanna</copyright><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://LaureZanna.github.io/images/icon_hu94c9def8747c8eeffeb23865e7c78c07_8643_512x512_fill_lanczos_center_2.png</url>
+      <title>D.G. MacMartin</title>
+      <link>https://LaureZanna.github.io/author/d.g.-macmartin/</link>
+    </image>
+    
+    <item>
+      <title>Suppression of Atlantic Meridional Overturning Circulation Variability at increased CO2</title>
+      <link>https://LaureZanna.github.io/publication/macmartin-et-al-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/macmartin-et-al-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency-domain multi-model analysis of the response of Atlantic Meridional overturning circulation to surface forcing</title>
+      <link>https://LaureZanna.github.io/publication/macmartin-et-al-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/macmartin-et-al-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

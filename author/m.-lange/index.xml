@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Lange | Climate &amp; Ocean Physics @ NYU</title>
+    <link>https://LaureZanna.github.io/author/m.-lange/</link>
+      <atom:link href="https://LaureZanna.github.io/author/m.-lange/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Lange</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2017 Laure Zanna</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://LaureZanna.github.io/images/icon_hu94c9def8747c8eeffeb23865e7c78c07_8643_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Lange</title>
+      <link>https://LaureZanna.github.io/author/m.-lange/</link>
+    </image>
+    
+    <item>
+      <title>Lagrangian ocean analysis: fundamentals and practices</title>
+      <link>https://LaureZanna.github.io/publication/vansebille-et-al-2017/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/publication/vansebille-et-al-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

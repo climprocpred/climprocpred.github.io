@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TBD | Climate &amp; Ocean Physics @ NYU</title>
+    <link>https://LaureZanna.github.io/author/tbd/</link>
+      <atom:link href="https://LaureZanna.github.io/author/tbd/index.xml" rel="self" type="application/rss+xml" />
+    <description>TBD</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2017 Laure Zanna</copyright>
+    <image>
+      <url>https://LaureZanna.github.io/images/icon_hu94c9def8747c8eeffeb23865e7c78c07_8643_512x512_fill_lanczos_center_2.png</url>
+      <title>TBD</title>
+      <link>https://LaureZanna.github.io/author/tbd/</link>
+    </image>
+    
+    <item>
+      <title>TBD</title>
+      <link>https://LaureZanna.github.io/author/tbd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/author/tbd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TBD</title>
+      <link>https://LaureZanna.github.io/author/tbd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://LaureZanna.github.io/author/tbd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
