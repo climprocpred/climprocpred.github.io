@@ -6,22 +6,26 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  name: Aneesh Subramanian
+  avatar: aneesh-photo.jpg
+  bio: " I am currently an Assistant Professor at the Department of Atmospheric and Oceanic Sciences (ATOC) at the University of Colorado Boulder. I am also a visiting scientist at Center for Western Weather and Water Extremes at Scripps Institution of Oceanography, UC San Diego and a visiting scholar in the Predictability of Weather and Climate group in the Physics Dept. at the University of Oxford. I graduated from the Climate Research Division at Scripps Institution of Oceanography, UC San Diego in 2012. My research interests are varied and are mainly focused on weather and climate prediction, data assimilation, and geophysical fluid dynamics.
+
+    The main focus of my work is currently in gaining a better understanding of processes that impact extreme weather especially on subseasonal timescales as well as better modeling of the Madden-Jullian Oscillation and its teleconnections using global climate models (such as the Community Earth System Model (CESM) and ECMWF IFS). I am actively working on stochastic parameterization for better representation of physical processes in climate models. Another focus of my work is on data assimilation in coupled ocean-atmosphere models. In the past, I have worked on assimilating ship cruise and satellite observed data into a regional eddy-permitting ocean model of the South East Pacific to better understand mesoscale ocean processes in this region using a regional ocean model called ROMS. I also study nonlinear data assimilation techniques to improve upon the Ensemble Kalman Filter and Adjoint-based methods in data assimilation into simplified nonlinear models of the atmosphere and climate.
+
+    I previously obtained M.Sc. (Engg.) from Indian Institute of Science in 2006 and B.Tech from IIT Madras in 2004."
+  email: aneeshcs@colorado.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
-  mendeley: #username
+  twitter: aneeshcs
+  linkedin: aneeshcs
+  github: aneeshcs
+  orcid: 0000-0001-7805-0102 # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: aneeshcs
+  mendeley: aneeshcs
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: aneeshcs
   facebook: #username
   instagram: #username
   bing-verify:
