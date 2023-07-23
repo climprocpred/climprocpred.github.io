@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Q. Zhang | Climate &amp; Ocean Physics @ NYU</title>
+    <link>https://Zanna-ResearchTeam.github.io/author/q.-zhang/</link>
+      <atom:link href="https://Zanna-ResearchTeam.github.io/author/q.-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Q. Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Zanna-ResearchTeam.github.io/media/icon_hub370ab1a34d7d9fe5734b6e9fabbc174_24334_512x512_fill_lanczos_center_3.png</url>
+      <title>Q. Zhang</title>
+      <link>https://Zanna-ResearchTeam.github.io/author/q.-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Resolving and Parameterising the Ocean Mesoscale in Earth System Models</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/hewitt-et-al-2020/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/hewitt-et-al-2020/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

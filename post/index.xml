@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | Climate &amp; Ocean Physics @ NYU</title>
+    <link>https://Zanna-ResearchTeam.github.io/post/</link>
+      <atom:link href="https://Zanna-ResearchTeam.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Zanna-ResearchTeam.github.io/media/icon_hub370ab1a34d7d9fe5734b6e9fabbc174_24334_512x512_fill_lanczos_center_3.png</url>
+      <title>Latest News</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>PhD and Postdoc Openings</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/2023-openings/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/2023-openings/</guid>
+      <description>&lt;p&gt;Join us if you are interested in working on ocean and climate physics.&lt;/p&gt;
+&lt;p&gt;We are looking for PhD students and Postdocs; applications due in early December. Follow to this &lt;a href=&#34;https://zanna-researchteam.github.io/opportunities/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; for further details.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Benchmarking of machine learning ocean subgrid parameterizations in an idealized model</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/22-08-benchmarking/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/22-08-benchmarking/</guid>
+      <description>&lt;p&gt;New preprint by Ross et al.&lt;/p&gt;
+&lt;p&gt;In this &lt;a href=&#34;https://doi.org/10.1002/essoar.10511742.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;work&lt;/a&gt;, led by Andrew Ross, with Ziwei Li, Pavel Perezhogin, Carlos Fernandez-Granda and Laure Zanna, we provide a framework for systematically benchmarking the offline and online performance of physical and ML-based subgrid parameterizations. We find that the choice of filtering operator is critical for performance. To help with interpretability, we also propose a novel equation-discovery approach combining linear regression and genetic programming which generalizes better than physical and neural network parameterizations.&lt;/p&gt;
+&lt;p&gt;See code and notebooks here: &lt;a href=&#34;https://github.com/m2lines/pyqg_parameterization_benchmarks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/m2lines/pyqg_parameterization_benchmarks&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Powerful ‘Machine Scientists’ Distill the Laws of Physics From Raw Data</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/22-10-01-quanta/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/22-10-01-quanta/</guid>
+      <description>&lt;p&gt;New Quanta Magazine Article on equation discovery for physics discovery featuring many examples including our work on ocean turbulence&lt;/p&gt;
+&lt;p&gt;Read our &lt;a href=&#34;https://www.nyu.edu/about/news-publications/news/2021/march/international-collaboration-will-use-artificial-intelligence-to-.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;press release&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are excited to announce the launch of our new international project &lt;a href=&#34;https://m2lines.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M²LInES&lt;/a&gt; – Multiscale Machine Learning In coupled Earth System Modeling – aimed at deepening our understanding of climate processes, and improving climate projections using scientific machine learning. Our &lt;a href=&#34;https://m2lines.github.io/team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;team&lt;/a&gt; includes scientists from New York University, Princeton, GFDL, Columbia, LDEO, NCAR, MIT, CNRS-IGE, and CNRS-IPSL.&lt;/p&gt;
+&lt;p&gt;The overall goal of the project is to improve climate projections and reduce climate model biases, especially at the air-sea interface, using machine learning (ML). We will rely on data from a range of high-resolution (idealized and global) simulations and data assimilation products to deepen our understanding and improve the representation of subgrid physics in the ocean, sea-ice and atmosphere components of existing IPCC-class climate models. In addition, we will work on overcoming challenges related to ML for climate modeling including sampling efficiency, generalization, interpretability and uncertainty quantification.&lt;/p&gt;
+&lt;p&gt;We are looking for 1 project manager and 12 postdocs right now at several institutions, please visit &lt;a href=&#34;https://m2lines.github.io/jobs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://m2lines.github.io/jobs/&lt;/a&gt; for more info about the different positions available, and how to apply. This is a highly collaborative project, and the researchers are expected to interact with different groups.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Plenary Talk @ 2022 CESM workshop</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/22-06-cesm_workshop/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/22-06-cesm_workshop/</guid>
+      <description>&lt;p&gt;Plenary talk on M²LInES and LEAP at the 2022 CESM Workshop on June 13-16, 2022.&lt;/p&gt;
+&lt;p&gt;Please visit the &lt;a href=&#34;https://www.cesm.ucar.edu/events/workshops/2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; to register as well as submit working group session talks and /or posters. The deadline to submit a talk / poster is Monday, May 16th.&lt;/p&gt;
+&lt;p&gt;The full workshop agenda can be found &lt;a href=&#34;https://www.cesm.ucar.edu/events/workshops/2022/files/2022-cesm-workshop-agenda.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In particular, &lt;strong&gt;Laure Zanna&lt;/strong&gt; will give a joint plenary talk on M²LInES with Galen McKinley from LEAP.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kavli Institute for Theoretical Physics Program on ML for Climate</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/kitp/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/kitp/</guid>
+      <description>&lt;p&gt;Co-Director of the Program and Conference&lt;/p&gt;
+&lt;p&gt;The talk from the conference are &lt;a href=&#34;https://online.kitp.ucsb.edu/online/climate21/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The talk from the long program are &lt;a href=&#34;https://online.kitp.ucsb.edu/online/climate-c21/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LEAP - New NSF Science and Technology Center on Learning the Earth with Artificial Intelligence and Physics</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/21-10-24-leap/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/21-10-24-leap/</guid>
+      <description>&lt;p&gt;NYU to Join NSF-Backed AI-Based Climate Modeling Center&lt;/p&gt;
+&lt;p&gt;Read our &lt;a href=&#34;https://www.nyu.edu/about/news-publications/news/2021/september/nyu-to-join-nsf-backed-ai-based-climate-modeling-center.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;press release&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The center and the vision are described &lt;a href=&#34;https://www.nyu.edu/about/news-publications/news/2021/september/nyu-to-join-nsf-backed-ai-based-climate-modeling-center.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. The &lt;a href=&#34;https://leap.columbia.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; is now available.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>M²LInES - New Collaboration on Machine Learning for Climate Modeling support by Schmidt Futures</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/21-01-24-m2lines/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/21-01-24-m2lines/</guid>
+      <description>&lt;p&gt;Experts in Machine learning, Climate Physics, and Modeling team up to deepen our understanding of climate&lt;/p&gt;
+&lt;p&gt;Read our &lt;a href=&#34;https://www.nyu.edu/about/news-publications/news/2021/march/international-collaboration-will-use-artificial-intelligence-to-.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;press release&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are excited to announce the launch of our new international project &lt;a href=&#34;https://m2lines.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M²LInES&lt;/a&gt; – Multiscale Machine Learning In coupled Earth System Modeling – aimed at deepening our understanding of climate processes, and improving climate projections using scientific machine learning. Our &lt;a href=&#34;https://m2lines.github.io/team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;team&lt;/a&gt; includes scientists from New York University, Princeton, GFDL, Columbia, LDEO, NCAR, MIT, CNRS-IGE, and CNRS-IPSL.&lt;/p&gt;
+&lt;p&gt;The overall goal of the project is to improve climate projections and reduce climate model biases, especially at the air-sea interface, using machine learning (ML). We will rely on data from a range of high-resolution (idealized and global) simulations and data assimilation products to deepen our understanding and improve the representation of subgrid physics in the ocean, sea-ice and atmosphere components of existing IPCC-class climate models. In addition, we will work on overcoming challenges related to ML for climate modeling including sampling efficiency, generalization, interpretability and uncertainty quantification.&lt;/p&gt;
+&lt;p&gt;We are looking for 1 project manager and 12 postdocs right now at several institutions, please visit &lt;a href=&#34;https://m2lines.github.io/jobs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://m2lines.github.io/jobs/&lt;/a&gt; for more info about the different positions available, and how to apply. This is a highly collaborative project, and the researchers are expected to interact with different groups.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Webinar at the National Academies on Climate &amp; Weather</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/nas-webina/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/nas-webina/</guid>
+      <description>&lt;p&gt;Talk as part of the series “Illustrating the Impact of the Mathematical Sciences”&lt;/p&gt;
+&lt;p&gt;The talk can be found on the NAS &lt;a href=&#34;https://www.nationalacademies.org/event/09-08-2020/climate-and-weather-illustrating-the-impact-of-the-mathematical-sciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New paper out in Nature on ocean heat/carbon uptake</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/heat-carbon-uptake/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/heat-carbon-uptake/</guid>
+      <description>&lt;p&gt;Links between heat &amp;amp; carbon to understand past and future warming patterns&lt;/p&gt;
+&lt;p&gt;The press release can be found &lt;a href=&#34;https://www.nyu.edu/about/news-publications/news/2020/august/researchers-identify-human-influence-as-key-agent-of-ocean-warmi.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. In this &lt;a href=&#34;https://www.nature.com/articles/s41586-020-2573-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; we highlight a relationship between heat and carbon to reveal the effect of changes in ocean circulation from CO2 forcing on patterns of ocean warming in both observations and global Earth system models from the Fifth Coupled Model Intercomparison Project (CMIP5).&lt;/p&gt;
+&lt;p&gt;We find that 1) the global heat to carbon uptake is linear and due to the background ocean state; 2) patterns of anthropogenic carbon and added heat (when the circulation is unchanged) are similar.&lt;/p&gt;
+&lt;p&gt;We show that historical patterns of ocean warming are shaped by ocean heat redistribution, which CMIP5 models simulate poorly. However, we find that projected patterns of heat storage are primarily dictated by the pre-industrial ocean circulation (and small changes in unresolved ocean processes)—that is, by the patterns of added heat owing to ocean uptake of excess atmospheric heat rather than ocean warming by circulation changes. Climate models show more skill in simulating ocean heat storage by the pre-industrial circulation compared to heat redistribution, indicating that warming patterns of the ocean may become more predictable as the climate warms.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Learning equations for ocean turbulence using machine learning</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/deeplearning/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/deeplearning/</guid>
+      <description>&lt;p&gt;Neural Nets + Physics vs. Equation-discovery for parameterization&lt;/p&gt;
+&lt;p&gt;Our new work with Tom Bolton on physics-aware &amp;amp; interpretable ML to improve ocean models is out in &lt;a href=&#34;http://tinyurl.com/y3chr7jr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GRL&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our new approach to the parameterization/closure problem: learning differential equations of missing physics in coarse-res ocean models from data. We use a machine learning (ML) method that relies on sparse Bayesian inference / relevance vector machine to learn ocean eddy parameterizations of momentum, buoyancy, and energy. We compare it to a ML parameterization which uses convolutional neural nets with conservation-law embedded in the architecture. Each approach has pros and cons (interpretability, generalization, numerical stability) in our proof-of-concept. Many aspects need to be improved but we are moving one step closer towards blending physics and machine learning for climate modeling.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New Paper on Causes of 20th Century sea level</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/sea-level-20th/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/sea-level-20th/</guid>
+      <description>&lt;p&gt;Published in Nature.&lt;/p&gt;
+&lt;p&gt;The work shows that we can close the ‘sea-level budget’ since 1900 and therefore explain the causes of the observed changes in sea level over the 20th century.&lt;/p&gt;
+&lt;p&gt;Global sea level has risen by about 20 cm since 1900, which has been caused by thermal expansion and ice melt, while there is now more liquid water stored on land than in 1900. The decrease is due to the fact that we have impounded a lot of water in dammed reservoirs. All the new dams almost brought sea-level rise to a halt.&lt;/p&gt;
+&lt;p&gt;Over the 20th century, most sea-level rise is caused by glacier melt, while the recently increased mass loss Greenland and Antarctica are catching up quickly. Sea level is also rising at an accelerated rate because of thermal expansion.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New Climate Process Team</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/cpt/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/cpt/</guid>
+      <description>&lt;p&gt;CPT Ocean Transport and Eddy Energy funded by NSF and NOAA&lt;/p&gt;
+&lt;p&gt;We are delighted to announce the launch of our new multi-institution Climate Process Team (CPT) on Ocean Transport and Eddy Energy, funded by NSF and NOAA. The CPT aims to implement, assess, improve, and unify recent work on energetically-consistent ocean eddy momentum and tracer parametrizations in ocean-only and coupled climate models to improve model fidelity.&lt;/p&gt;
+&lt;p&gt;We have four postdoc positions available (NYU, Princeton, WHOI, CU Boulder) covering observations, theory, and modeling of ocean mesoscale eddies. See the advert &lt;a href=&#34;https://tinyurl.com/y674sv2n&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can find more details &lt;a href=&#34;https://ocean-eddy-cpt.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt;. The website will be updated in the coming weeks. You can find the proposal &lt;a href=&#34;https://figshare.com/articles/Proposal/10105922&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Updated Datasets of ocean warming reconstruction</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/ohc_pnas_dataset/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/ohc_pnas_dataset/</guid>
+      <description>&lt;p&gt;Ocean Heat Content and Thermosteric Sea Level&lt;/p&gt;
+&lt;p&gt;The original data from our PNAS paper can be dowloaded &lt;a href=&#34;https://www.dropbox.com/s/wx3fj4w61b8yyud/OHC_GF_global.nc?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We are continuously working on updating the datasets fairly regularly (thanks to many comments and sugg
+estions over the recent weeks). For the most recent update (March 15th, v0) which include:&lt;/p&gt;
+&lt;p&gt;extending back to 1870 (rather than 1871),&lt;/p&gt;
+&lt;p&gt;adding year 2018&lt;/p&gt;
+&lt;p&gt;using Sea Surface Temperatures from NOAA Extended Reconstruction SSTsV4, COBE (in addition to HadISSTv1 and realisations from HadISST v2)&lt;/p&gt;
+&lt;p&gt;thermal expansion coefficients calculated using annual-mean climatology for 2005-2012 of WOA2013.&lt;/p&gt;
+&lt;p&gt;The datasets for the upper 300 m, upper 700 m, upper 2000 m, below 2000 m, and full depth (with errors defined as one-SD and derived from perturbing the Green’s Functions and from the use of different SSTs) are here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/wa5u5bc5y5mym88/OHC_GF_1870_2018.nc?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ocean Heat Content (v0) 1870-2018&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/4b1piqgjdekj1gc/ThSL_GF_1870_2018.nc?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thermosteric Sea Level (v0) 1870-2018&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For further details regarding the method, please consult our &lt;a href=&#34;https://zanna-researchteam.github.io/files/Zanna-et-al-2019.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript&lt;/a&gt; and &lt;a href=&#34;https://zanna-researchteam.github.io/files/Zanna-et-al-SI-2019.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;supplementary material&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Podcast Climate Scientists</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/podcast/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/podcast/</guid>
+      <description>&lt;p&gt;Dan Jones interviewed me for his podcast Climate Scientists&lt;/p&gt;
+&lt;p&gt;We discussed machine learning in climate, ocean warming, collaborative research and my pathway into science. The podcast is hosted on several platform, &lt;a href=&#34;https://anchor.fm/climate-scientists/episodes/Laure-Zanna-e38ork&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here is one&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ocean Warming Paper out in PNAS, with press coverage</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/press-pnas/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/press-pnas/</guid>
+      <description>&lt;p&gt;Links to paper, and some press and radio.&lt;/p&gt;
+&lt;p&gt;Our new paper on reconstruction ocean heat content from 1871 to present was accepted in PNAS. The paper was part of our exciting NERC Large Grant &lt;a href=&#34;http://projects.noc.ac.uk/tictoc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TICTOC&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can find the paper and a summary in our &lt;a href=&#34;https://laurezanna.github.io/publication/zanna-et-al-2017b/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publication list&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our official press release can be found on the &lt;a href=&#34;http://www.ox.ac.uk/news/2019-01-08-century-and-half-reconstructed-ocean-warming-offers-clues-future-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Oxford website&lt;/a&gt; and the &lt;a href=&#34;https://www.wadham.ox.ac.uk/news/2019/january/ocean-warming-reconstruction-offers-clues-for-the&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wadham College website&lt;/a&gt;. A few examples of articles in the media that mentioned our work:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;General Press: &lt;a href=&#34;https://www.theguardian.com/environment/2019/jan/07/global-warming-of-oceans-equivalent-to-an-atomic-bomb-per-second&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Guardian&lt;/a&gt;, &lt;a href=&#34;https://weather.com/science/environment/news/2019-01-08-oceans-warming-15-atomic-bombs-per-second&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Weather Channel&lt;/a&gt;, &lt;a href=&#34;https://www.nytimes.com/2019/01/10/climate/ocean-warming-climate-change.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The New York Times&lt;/a&gt;, &lt;a href=&#34;https://www.forbes.com/sites/priyashukla/2019/01/10/oceans-have-absorbed-1000-times-more-energy-than-what-the-global-human-population-uses-each-year/#2d552b7d58e7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forbes&lt;/a&gt;, &lt;a href=&#34;https://www.nationalgeographic.com/environment/2019/01/oceans-warming-faster-than-ever/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Geographic&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Science Press: &lt;a href=&#34;https://phys.org/news/2019-01-century-reconstructed-ocean-clues-future.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phys.org&lt;/a&gt;, &lt;a href=&#34;https://www.sciencedaily.com/releases/2019/01/190107150746.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Daily&lt;/a&gt;, &lt;a href=&#34;https://physicsworld.com/a/ocean-warming-speeds-vary-with-depth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Physics World&lt;/a&gt;, &lt;a href=&#34;https://physicstoday.scitation.org/do/10.1063/PT.6.1.20190115a/full/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Physics Today&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Radio: &lt;a href=&#34;https://www.bbc.co.uk/programmes/w3cswmqm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BBC World Service Science in Action&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Upgrading Climate Predictions With AI</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/climateai-wadham/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/climateai-wadham/</guid>
+      <description>&lt;p&gt;Wadham news story on our work&lt;/p&gt;
+&lt;p&gt;A little story on our work on ocean and climate, including our new ideas using machine learning, publis
+hed on the &lt;a href=&#34;https://www.wadham.ox.ac.uk/news/2018/december/upgrading-climate-predictions-with-ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wadham website&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TICTOC project meeting</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/tictoc/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/tictoc/</guid>
+      <description>&lt;p&gt;We are hosting the annual TICTOC meeting in Oxford&lt;/p&gt;
+&lt;p&gt;The annual meeting of our project “Transient tracer-based Investigation of Circulation and Thermal Ocean Change” &lt;a href=&#34;http://projects.noc.ac.uk/tictoc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TICTOC&lt;/a&gt; will be held in Oxford on Sep 25-26 2018.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

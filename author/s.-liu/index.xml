@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Liu | Climate &amp; Ocean Physics @ NYU</title>
+    <link>https://Zanna-ResearchTeam.github.io/author/s.-liu/</link>
+      <atom:link href="https://Zanna-ResearchTeam.github.io/author/s.-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Zanna-ResearchTeam.github.io/media/icon_hub370ab1a34d7d9fe5734b6e9fabbc174_24334_512x512_fill_lanczos_center_3.png</url>
+      <title>S. Liu</title>
+      <link>https://Zanna-ResearchTeam.github.io/author/s.-liu/</link>
+    </image>
+    
+    <item>
+      <title>Deep Probability Estimation</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/liu-et-al-2021/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/liu-et-al-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
