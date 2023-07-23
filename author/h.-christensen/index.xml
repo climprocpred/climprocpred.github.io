@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Christensen | Climate &amp; Ocean Physics @ NYU</title>
+    <link>https://Zanna-ResearchTeam.github.io/author/h.-christensen/</link>
+      <atom:link href="https://Zanna-ResearchTeam.github.io/author/h.-christensen/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. Christensen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Zanna-ResearchTeam.github.io/media/icon_hub370ab1a34d7d9fe5734b6e9fabbc174_24334_512x512_fill_lanczos_center_3.png</url>
+      <title>H. Christensen</title>
+      <link>https://Zanna-ResearchTeam.github.io/author/h.-christensen/</link>
+    </image>
+    
+    <item>
+      <title>Parametrization in Weather and Climate Models</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/christensen-zanna-2022/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/christensen-zanna-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

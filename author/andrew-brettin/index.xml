@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Brettin | Climate &amp; Ocean Physics @ NYU</title>
+    <link>https://Zanna-ResearchTeam.github.io/author/andrew-brettin/</link>
+      <atom:link href="https://Zanna-ResearchTeam.github.io/author/andrew-brettin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew Brettin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Zanna-ResearchTeam.github.io/author/andrew-brettin/avatar_hubbdb64b79dbb9c23599263057fd74a05_13801_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Andrew Brettin</title>
+      <link>https://Zanna-ResearchTeam.github.io/author/andrew-brettin/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the non-stationarity of coastal sea level probability distributions</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2022/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
