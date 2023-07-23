@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our projects | Climate &amp; Ocean Physics @ NYU</title>
-    <link>https://Zanna-ResearchTeam.github.io/projects/</link>
-      <atom:link href="https://Zanna-ResearchTeam.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://climprocpred.github.io/projects/</link>
+      <atom:link href="https://climprocpred.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Our projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://Zanna-ResearchTeam.github.io/media/icon_hub370ab1a34d7d9fe5734b6e9fabbc174_24334_512x512_fill_lanczos_center_3.png</url>
+      <url>https://climprocpred.github.io/media/icon_hub370ab1a34d7d9fe5734b6e9fabbc174_24334_512x512_fill_lanczos_center_3.png</url>
       <title>Our projects</title>
-      <link>https://Zanna-ResearchTeam.github.io/projects/</link>
+      <link>https://climprocpred.github.io/projects/</link>
     </image>
     
     <item>
       <title>LEAP - Learning the Earth with Artificial Intelligence and Physics</title>
-      <link>https://Zanna-ResearchTeam.github.io/projects/leap/</link>
+      <link>https://climprocpred.github.io/projects/leap/</link>
       <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/projects/leap/</guid>
+      <guid>https://climprocpred.github.io/projects/leap/</guid>
       <description>&lt;p&gt;Learning the Earth with Artificial Intelligence and Physics (LEAP) is an NSF Science and Technology Center (STC) launched in 2021.&lt;/p&gt;
 &lt;p&gt;LEAP’s primary research strategy is to improve near-term climate projections by merging physical modeling with machine learning across a continuum from expertise in climate science and climate modeling to cutting-edge machine learning algorithms. The benefits will be significant for both the climate and data sciences communities. Climate scientists and modelers struggle to fully integrate the wealth of existing datasets into their models, while machine learning algorithms have been good at emulating and interpolating but have difficulties extrapolating or predicting extremes. By combining both approaches, LEAP will trigger a significant advancement for data science algorithms applied to physical problems. LEAP will incorporate physics and causal mechanisms into machine learning algorithms for better generalization and extrapolation, while optimally using the wealth of data available to climate science, in order to better predict the future.
 &lt;br&gt;&lt;/p&gt;
@@ -25,18 +25,18 @@
     
     <item>
       <title>M²LInES - Multiscale Machine Learning In Coupled Earth System Modeling</title>
-      <link>https://Zanna-ResearchTeam.github.io/projects/m2lines/</link>
+      <link>https://climprocpred.github.io/projects/m2lines/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/projects/m2lines/</guid>
+      <guid>https://climprocpred.github.io/projects/m2lines/</guid>
       <description>&lt;p&gt;M²LInES is a large international collaborative project with the goal of improving climate projections, using scientific and interpretable Machine Learning to capture unaccounted physical processes at the air-sea-ice interface.&lt;/p&gt;
 &lt;p&gt;More infos on our &lt;a href=&#34;https://m2lines.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>CPT - Ocean Transport and Eddy Energy</title>
-      <link>https://Zanna-ResearchTeam.github.io/projects/cpt/</link>
+      <link>https://climprocpred.github.io/projects/cpt/</link>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/projects/cpt/</guid>
+      <guid>https://climprocpred.github.io/projects/cpt/</guid>
       <description>&lt;p&gt;The Climate Process Team (CPT) aims to implement, assess, improve, and unify recent work on energetically-consistent ocean eddy momentum and tracer parametrizations in ocean-only and coupled climate models to improve model fidelity.&lt;/p&gt;
 &lt;p&gt;More infos on our &lt;a href=&#34;https://ocean-eddy-cpt.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Below, a group picture at our conference in Boulder in April 2022
@@ -62,7 +62,7 @@
                /projects/cpt/conference_hu04dcab0b2e04283c6cb74b43c0d7742a_240728_a1ae5f8e7651616f5a0d5be76e2bd105.webp 400w,
                /projects/cpt/conference_hu04dcab0b2e04283c6cb74b43c0d7742a_240728_8f717c4951086382f06cb5ac9a3811eb.webp 760w,
                /projects/cpt/conference_hu04dcab0b2e04283c6cb74b43c0d7742a_240728_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://Zanna-ResearchTeam.github.io/projects/cpt/conference_hu04dcab0b2e04283c6cb74b43c0d7742a_240728_a1ae5f8e7651616f5a0d5be76e2bd105.webp&#34;
+               src=&#34;https://climprocpred.github.io/projects/cpt/conference_hu04dcab0b2e04283c6cb74b43c0d7742a_240728_a1ae5f8e7651616f5a0d5be76e2bd105.webp&#34;
                width=&#34;760&#34;
                height=&#34;571&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -72,48 +72,48 @@
     
     <item>
       <title>Climate Variability</title>
-      <link>https://Zanna-ResearchTeam.github.io/projects/climate_variability/</link>
+      <link>https://climprocpred.github.io/projects/climate_variability/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/projects/climate_variability/</guid>
+      <guid>https://climprocpred.github.io/projects/climate_variability/</guid>
       <description>&lt;p&gt;In addition to its role played in heat and carbon uptake, the large-scale ocean circulation in the Atlantic is an important driver of European climate variability on interannual and decadal timescales. Yet, the importance of its influence remains unclear due in part to the short historical record and the poor representation of this variability in climate simulations. To explore the large discrepancies between coupled general circulation models (GCMs) in their representation of the meridional overturning circulation (MOC) decadal variability and predictions in the Atlantic sector, we have introduced new diagnostic and numerical tools. Some of the questions we are interested include:&lt;/p&gt;
-&lt;p&gt;– Which processes (e.g., atmosphere, ocean mixed layer, ocean currents) drive decadal variability (e.g., Atlantic Multidecadal Variability)? (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/macmartin-et-al-2013/&#34;&gt;MacMartin et al. 2013&lt;/a&gt;, &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/oreilly-et-al-2016/&#34;&gt;O’Reilly et al. 2016&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;– Why is the decadal ocean variability in model low compared to observations? (&lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/oreilly-zanna-2018/&#34;&gt;O’Reilly and Zanna, 2018&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;– How remote variability in the Tropical Pacific impacts European weather? (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/oreilly-et-al-2018/&#34;&gt;O’Reilly et al. 2018&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;– What are the roles of air-sea feedback at high-latitudes? (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/oreilly-et-al-2016/&#34;&gt;O’Reilly et al. 2016&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;– How does anthropogenic forcing impact the variability of ocean circulation? (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/macmartin-et-al-2016/&#34;&gt;MacMartin et al. 2016&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;– Which processes (e.g., atmosphere, ocean mixed layer, ocean currents) drive decadal variability (e.g., Atlantic Multidecadal Variability)? (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/macmartin-et-al-2013/&#34;&gt;MacMartin et al. 2013&lt;/a&gt;, &lt;a href=&#34;https://climprocpred.github.io/publication/oreilly-et-al-2016/&#34;&gt;O’Reilly et al. 2016&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;– Why is the decadal ocean variability in model low compared to observations? (&lt;a href=&#34;https://climprocpred.github.io/publication/oreilly-zanna-2018/&#34;&gt;O’Reilly and Zanna, 2018&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;– How remote variability in the Tropical Pacific impacts European weather? (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/oreilly-et-al-2018/&#34;&gt;O’Reilly et al. 2018&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;– What are the roles of air-sea feedback at high-latitudes? (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/oreilly-et-al-2016/&#34;&gt;O’Reilly et al. 2016&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;– How does anthropogenic forcing impact the variability of ocean circulation? (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/macmartin-et-al-2016/&#34;&gt;MacMartin et al. 2016&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Data Science &amp; Climate</title>
-      <link>https://Zanna-ResearchTeam.github.io/projects/data_science_climate/</link>
+      <link>https://climprocpred.github.io/projects/data_science_climate/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/projects/data_science_climate/</guid>
+      <guid>https://climprocpred.github.io/projects/data_science_climate/</guid>
       <description>&lt;p&gt;We work on data-driven methods to undertand and predict climate. The tools we use range from probabilistic models informed by data to machine learning algorithms (e.g., neural networks).&lt;/p&gt;
 &lt;p&gt;Some of our data-driven work include:&lt;/p&gt;
-&lt;p&gt;– Simple statistical models for prediction of seasonal to decadal sea surface temperatures in the Atlantic (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/zanna-2012/&#34;&gt;Zanna 2012&lt;/a&gt;, &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/huddart-et-al-2016/&#34;&gt;Huddart et al. 2016&lt;/a&gt;) and Pacific (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/dias-et-al-2018/&#34;&gt;Dias et al. 2018&lt;/a&gt;), and sea level (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/fraser-et-al-2019/&#34;&gt;Fraser et al. 2019&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;– Data-driven scale- and flow-aware determinitic and stochastic parametrizations of ocean turbulence (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/portamana-zanna-2014/&#34;&gt;Porta Mana &amp;amp; Zanna 2014&lt;/a&gt;, &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/zanna-et-al-2017/&#34;&gt;Zanna et al. 2017&lt;/a&gt;, &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/david-et-al-2017/&#34;&gt;David et al. 2017&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;– Data inference using machine learning (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/bolton-zanna-2018/&#34;&gt;Bolton and Zanna, 2019&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;– Representation of climate processes with Neural Net and Equation-Discovery (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/bolton-zanna-2018/&#34;&gt;Bolton and Zanna, 2019&lt;/a&gt;, &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/bolton-zanna-2018/&#34;&gt;Bolton and Zanna, 2019&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;– Simple statistical models for prediction of seasonal to decadal sea surface temperatures in the Atlantic (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/zanna-2012/&#34;&gt;Zanna 2012&lt;/a&gt;, &lt;a href=&#34;https://climprocpred.github.io/publication/huddart-et-al-2016/&#34;&gt;Huddart et al. 2016&lt;/a&gt;) and Pacific (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/dias-et-al-2018/&#34;&gt;Dias et al. 2018&lt;/a&gt;), and sea level (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/fraser-et-al-2019/&#34;&gt;Fraser et al. 2019&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;– Data-driven scale- and flow-aware determinitic and stochastic parametrizations of ocean turbulence (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/portamana-zanna-2014/&#34;&gt;Porta Mana &amp;amp; Zanna 2014&lt;/a&gt;, &lt;a href=&#34;https://climprocpred.github.io/publication/zanna-et-al-2017/&#34;&gt;Zanna et al. 2017&lt;/a&gt;, &lt;a href=&#34;https://climprocpred.github.io/publication/david-et-al-2017/&#34;&gt;David et al. 2017&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;– Data inference using machine learning (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/bolton-zanna-2018/&#34;&gt;Bolton and Zanna, 2019&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;– Representation of climate processes with Neural Net and Equation-Discovery (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/bolton-zanna-2018/&#34;&gt;Bolton and Zanna, 2019&lt;/a&gt;, &lt;a href=&#34;https://climprocpred.github.io/publication/bolton-zanna-2018/&#34;&gt;Bolton and Zanna, 2019&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;We are actively using machine learning and more generally data-driven tools to address some of our favorite problems related to parameterization of turbulent processes, interannual to decadal prediction, and forecasting of extreme events.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Extreme Events</title>
-      <link>https://Zanna-ResearchTeam.github.io/projects/extreme_events/</link>
+      <link>https://climprocpred.github.io/projects/extreme_events/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/projects/extreme_events/</guid>
+      <guid>https://climprocpred.github.io/projects/extreme_events/</guid>
       <description>&lt;p&gt;We observe and predict a range of extremes events in precipitation, sea level, and air or ocean temperatures. Some of these events are rare but are of large amplitudes. Sampling their statistics and undertanding their dynamical drivers are important for climate detection, attribution and adaption. These extreme events are a reflection of the complex and non-linear dynamics governing the climate system. We are interested in addressing the following:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;What are the dynamical drivers of the extreme events in sea surface temperatures or sea level? (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/rodrigues-et-al-2019/&#34;&gt;Rodrigues et al. 2019&lt;/a&gt;, &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/yin-et-al-2019/&#34;&gt;Yin et al. 2019&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;What are the dynamical drivers of the extreme events in sea surface temperatures or sea level? (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/rodrigues-et-al-2019/&#34;&gt;Rodrigues et al. 2019&lt;/a&gt;, &lt;a href=&#34;https://climprocpred.github.io/publication/yin-et-al-2019/&#34;&gt;Yin et al. 2019&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;How anthropogenic climate change has affected or will affect extreme events in the ocean and atmosphere? (&lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/yin-et-al-2019/&#34;&gt;Yin et al. 2019&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;How anthropogenic climate change has affected or will affect extreme events in the ocean and atmosphere? (&lt;a href=&#34;https://climprocpred.github.io/publication/yin-et-al-2019/&#34;&gt;Yin et al. 2019&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;How to best describe forced-dissipative turbulent system from their statistics? (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/david-et-al-2018/&#34;&gt;David et al. 2018&lt;/a&gt;, &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/david-et-al-2017/&#34;&gt;David et al. 2017&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;How to best describe forced-dissipative turbulent system from their statistics? (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/david-et-al-2018/&#34;&gt;David et al. 2018&lt;/a&gt;, &lt;a href=&#34;https://climprocpred.github.io/publication/david-et-al-2017/&#34;&gt;David et al. 2017&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -121,9 +121,9 @@
     
     <item>
       <title>Mentoring &#43; DEI Activities</title>
-      <link>https://Zanna-ResearchTeam.github.io/projects/mentoring_dei/</link>
+      <link>https://climprocpred.github.io/projects/mentoring_dei/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/projects/mentoring_dei/</guid>
+      <guid>https://climprocpred.github.io/projects/mentoring_dei/</guid>
       <description>&lt;p&gt;Selected programs that we participate in and might be of interest to our community&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;NYU CDS Undergraduate Research Program (&lt;a href=&#34;https://github.com/LaureZanna/starter-academic/new/master/content/project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CURP&lt;/a&gt;) in partnership with the National Society of Black Physicists (NSBP);&lt;/li&gt;
@@ -136,34 +136,34 @@
     
     <item>
       <title>Ocean Turbulence</title>
-      <link>https://Zanna-ResearchTeam.github.io/projects/ocean_turbulence/</link>
+      <link>https://climprocpred.github.io/projects/ocean_turbulence/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/projects/ocean_turbulence/</guid>
+      <guid>https://climprocpred.github.io/projects/ocean_turbulence/</guid>
       <description>&lt;p&gt;Ocean mesoscale eddies strongly affect the strength and variability of ocean jets such as the Gulf Stream. The spatial scales of eddies are too small to be resolved in climate models and hence their effects on the large-scale circulation need to be parametrized. The most common parametrizations used in coarse-resolution models are not adequate for the current generation of models, in which eddies are partially resolved. Furthermore, eddies are turbulent and stochastic in nature however current bulk parametrizations of mesoscale eddies are deterministic and do not account for subgrid transport fluctuations or upscale turbulent cascades therefore leading to model error in the representation of present and future climate change. The group is developing new parametrizations which specifically account for such effects and for model error associated with the uncertainty in the parametrizations. The parametrizations are constructed by using first principles, statistical mechanics, and high-resolution model outputs.&lt;/p&gt;
-&lt;p&gt;– Quantifying the ocean turbulence and energy transfer (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/kjellsson-zanna-2017/&#34;&gt;Kjellsson and Zanna 2017&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;– Probabilistic representation and parameterization of ocean turbulence (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/portamana-zanna-2014/&#34;&gt;Porta Mana &amp;amp; Zanna 2014&lt;/a&gt;, &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/zanna-et-al-2017/&#34;&gt;Zanna et al. 2017&lt;/a&gt;, &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/david-et-al-2017/&#34;&gt;David et al. 2017&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;– Quantifying the ocean turbulence and energy transfer (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/kjellsson-zanna-2017/&#34;&gt;Kjellsson and Zanna 2017&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;– Probabilistic representation and parameterization of ocean turbulence (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/portamana-zanna-2014/&#34;&gt;Porta Mana &amp;amp; Zanna 2014&lt;/a&gt;, &lt;a href=&#34;https://climprocpred.github.io/publication/zanna-et-al-2017/&#34;&gt;Zanna et al. 2017&lt;/a&gt;, &lt;a href=&#34;https://climprocpred.github.io/publication/david-et-al-2017/&#34;&gt;David et al. 2017&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Oceans in Climate Change</title>
-      <link>https://Zanna-ResearchTeam.github.io/projects/oceans_in_climate_change/</link>
+      <link>https://climprocpred.github.io/projects/oceans_in_climate_change/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/projects/oceans_in_climate_change/</guid>
+      <guid>https://climprocpred.github.io/projects/oceans_in_climate_change/</guid>
       <description>&lt;p&gt;The oceans are a major sink of heat and carbon, able to delay climate change. The role of ocean heat uptake remains central in quantifying both the magnitude and timescale of the local and global climate response to forcing.&lt;/p&gt;
 &lt;p&gt;One main focus of our work is address fundamental questions such as:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;What is the role of the ocean circulation is shaping patterns of heat, salinity, carbon and oxygen storage? (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/bronselaer-zanna-2020/&#34;&gt;Bronselaer &amp;amp; Zanna, 2020&lt;/a&gt;; &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/zanna-et-al-2017b/&#34;&gt;Zanna et al, 2019&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;What is the role of the ocean circulation is shaping patterns of heat, salinity, carbon and oxygen storage? (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/bronselaer-zanna-2020/&#34;&gt;Bronselaer &amp;amp; Zanna, 2020&lt;/a&gt;; &lt;a href=&#34;https://climprocpred.github.io/publication/zanna-et-al-2017b/&#34;&gt;Zanna et al, 2019&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;What drives the uncertainty in projections of ocean heat uptake and thermosteric sea level change? (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/huber-zanna-2017/&#34;&gt;Huber and Zanna, 2017&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;What drives the uncertainty in projections of ocean heat uptake and thermosteric sea level change? (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/huber-zanna-2017/&#34;&gt;Huber and Zanna, 2017&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Which physical processes govern the timescale of adjustment of the ocean under climate change? (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/files/Marshall-Zanna-2014.pdf&#34;&gt;Marshall and Zanna, 2014&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Which physical processes govern the timescale of adjustment of the ocean under climate change? (e.g., &lt;a href=&#34;https://climprocpred.github.io/files/Marshall-Zanna-2014.pdf&#34;&gt;Marshall and Zanna, 2014&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;How does the surface forcing and ocean dynamics influence the air-sea fluxes of carbon? (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/files/Bronselaer_et_al-2016.pdf&#34;&gt;Bronselaer et al, 2016&lt;/a&gt;; &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/files/Bronselaer-et-al-2018.pdf&#34;&gt;Bronselaer et al, 2017&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;How does the surface forcing and ocean dynamics influence the air-sea fluxes of carbon? (e.g., &lt;a href=&#34;https://climprocpred.github.io/files/Bronselaer_et_al-2016.pdf&#34;&gt;Bronselaer et al, 2016&lt;/a&gt;; &lt;a href=&#34;https://climprocpred.github.io/files/Bronselaer-et-al-2018.pdf&#34;&gt;Bronselaer et al, 2017&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -171,27 +171,27 @@
     
     <item>
       <title>Predictability</title>
-      <link>https://Zanna-ResearchTeam.github.io/projects/predictability/</link>
+      <link>https://climprocpred.github.io/projects/predictability/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/projects/predictability/</guid>
+      <guid>https://climprocpred.github.io/projects/predictability/</guid>
       <description>&lt;p&gt;Climate projections are subject to three sources of uncertainties: initial condition, model and scenario. Our research is concerned with the first two kinds of errors. Specifically, how do the lack of ocean observations, the chaotic nature of the climate system and the poor representation of subgrid turbulent processes impact predictions on intra-seasonal to centennial timescales. Being able to quantify the predictability limits of the ocean is crucial for providing reliable climate predictions. We use theory, observations and numerical simulations to assess the uncertainties associated the ocean dynamics.&lt;/p&gt;
-&lt;p&gt;– Simple statistical models for prediction of seasonal to decadal sea surface temperatures in the Atlantic (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/zanna-2012/&#34;&gt;Zanna 2012&lt;/a&gt;, &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/huddart-et-al-2016/&#34;&gt;Huddart et al. 2016&lt;/a&gt;) and Pacific (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/dias-et-al-2018/&#34;&gt;Dias et al. 2018&lt;/a&gt;), and sea level (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/fraser-et-al-2019/&#34;&gt;Fraser et al. 2019&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;– Quantification of uncertainty associated with initial conditions and model parameterization (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/zanna-et-al-2018/&#34;&gt;Zanna et al. 2018&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;– Simple statistical models for prediction of seasonal to decadal sea surface temperatures in the Atlantic (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/zanna-2012/&#34;&gt;Zanna 2012&lt;/a&gt;, &lt;a href=&#34;https://climprocpred.github.io/publication/huddart-et-al-2016/&#34;&gt;Huddart et al. 2016&lt;/a&gt;) and Pacific (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/dias-et-al-2018/&#34;&gt;Dias et al. 2018&lt;/a&gt;), and sea level (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/fraser-et-al-2019/&#34;&gt;Fraser et al. 2019&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;– Quantification of uncertainty associated with initial conditions and model parameterization (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/zanna-et-al-2018/&#34;&gt;Zanna et al. 2018&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sea Level</title>
-      <link>https://Zanna-ResearchTeam.github.io/projects/sea_level/</link>
+      <link>https://climprocpred.github.io/projects/sea_level/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/projects/sea_level/</guid>
+      <guid>https://climprocpred.github.io/projects/sea_level/</guid>
       <description>&lt;p&gt;As anthropogenic emissions increase, the temperature of the planet increases. As a result, ice melt and thermal expansion of the oceans leads to sea level rise. Regionally, sea level changes due to local forcing from the atmosphere, changes in ocean circulations, and ocean bathymetry. We are interested in several aspects of sea level dynamics such as:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;How predictable is sea level dynamics on seasonal to decadal timescales? (e.g., &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/fraser-et-al-2019/&#34;&gt;Fraser et al, 2019&lt;/a&gt;, &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/zanna-et-al-2018/&#34;&gt;Zanna et al. 2018&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;How predictable is sea level dynamics on seasonal to decadal timescales? (e.g., &lt;a href=&#34;https://climprocpred.github.io/publication/fraser-et-al-2019/&#34;&gt;Fraser et al, 2019&lt;/a&gt;, &lt;a href=&#34;https://climprocpred.github.io/publication/zanna-et-al-2018/&#34;&gt;Zanna et al. 2018&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Which dynamical drivers dominate sea level change on the continental shelves? and how these signals relate to change in the ocean interior? (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/ponte-et-al-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ponte et al. 2019&lt;/a&gt;, &lt;a href=&#34;https://Zanna-ResearchTeam.github.io/publication/fraser-et-al-2019/&#34;&gt;Fraser et al, 2019&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Which dynamical drivers dominate sea level change on the continental shelves? and how these signals relate to change in the ocean interior? (e.g., &lt;a href=&#34;https://laurezanna.github.io/publication/ponte-et-al-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ponte et al. 2019&lt;/a&gt;, &lt;a href=&#34;https://climprocpred.github.io/publication/fraser-et-al-2019/&#34;&gt;Fraser et al, 2019&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;What drives the uncertainty in projections of thermosteric sea level change? (e.g., Huber and Zanna, 2017, Carson et al., 2019)&lt;/p&gt;
@@ -206,9 +206,9 @@
     
     <item>
       <title>FAFMIP</title>
-      <link>https://Zanna-ResearchTeam.github.io/projects/fafmip/</link>
+      <link>https://climprocpred.github.io/projects/fafmip/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/projects/fafmip/</guid>
+      <guid>https://climprocpred.github.io/projects/fafmip/</guid>
       <description>&lt;p&gt;FAFMIP is an atmosphere-ocean general circulation model intercomparison project of CMIP6. It addresses aspects of the Earth system response to forcing, and is of particular relevance to the WCRP Grand Challenge on sea level rise and regional impacts. Its goal is to explain the model spread in AOGCM projections of ocean climate change forced by CO2 increase.&lt;/p&gt;
 &lt;p&gt;More info on our &lt;a href=&#34;http://www.fafmip.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -216,9 +216,9 @@
     
     <item>
       <title>TICTOC</title>
-      <link>https://Zanna-ResearchTeam.github.io/projects/tictoc/</link>
+      <link>https://climprocpred.github.io/projects/tictoc/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/projects/tictoc/</guid>
+      <guid>https://climprocpred.github.io/projects/tictoc/</guid>
       <description>&lt;p&gt;TICTOC is a multi-institute NERC funded grant with the aim of studying regional ocean heat content change and sea level rise. TICTOC will use observations made from research ships and computer models of the ocean to understand where the ocean takes up heat from the atmosphere and how ocean currents transport and redistribute that heat.&lt;/p&gt;
 &lt;p&gt;More info on our &lt;a href=&#34;https://projects.noc.ac.uk/tictoc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;&lt;/p&gt;
 </description>
