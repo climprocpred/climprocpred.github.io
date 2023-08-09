@@ -1,855 +1,674 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Climate Processes &amp; Predictability @ CUB</title>
-    <link>https://climprocpred.github.io/publication-type/2/</link>
-      <atom:link href="https://climprocpred.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <title>2 | Academic</title>
+    <link>https://example.com/publication-type/2/</link>
+      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://climprocpred.github.io/media/icon_hub370ab1a34d7d9fe5734b6e9fabbc174_24334_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://climprocpred.github.io/publication-type/2/</link>
+      <link>https://example.com/publication-type/2/</link>
     </image>
     
     <item>
-      <title>Benchmarking of machine learning ocean subgrid parameterizations in an idealized model</title>
-      <link>https://climprocpred.github.io/publication/ross-et-al-2022/</link>
+      <title>A variational Bayesian approach for ensemble filtering of stochastically    parametrized systems</title>
+      <link>https://example.com/publication/ait-el-fquih-2023-variational/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/ross-et-al-2022/</guid>
+      <guid>https://example.com/publication/ait-el-fquih-2023-variational/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Parametrization in Weather and Climate Models</title>
-      <link>https://climprocpred.github.io/publication/christensen-zanna-2022/</link>
-      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/christensen-zanna-2022/</guid>
+      <title>Assessing the Impact of Ocean In Situ Observations on MJO Propagation    Across the Maritime Continent in ECMWF Subseasonal Forecasts</title>
+      <link>https://example.com/publication/du-2023-assessing/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/du-2023-assessing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Influences of Mesoscale Ocean Eddies on Flow Vertical Structure in a Resolution-Based Model Hierarchy</title>
-      <link>https://climprocpred.github.io/publication/yankovsky-2022/</link>
-      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/yankovsky-2022/</guid>
+      <title>Development of a Statistical Subseasonal Forecast Tool to Predict    California Atmospheric Rivers and Precipitation Based on MJO and QBO Activity</title>
+      <link>https://example.com/publication/castellano-2023-development/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/castellano-2023-development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>NeverWorld2: An idealized model hierarchy to investigate ocean mesoscale eddies across resolutions</title>
-      <link>https://climprocpred.github.io/publication/marques-et-al-2022/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/marques-et-al-2022/</guid>
+      <title>Impacts of Northeastern Pacific Buoy Surface Pressure Observations</title>
+      <link>https://example.com/publication/reynolds-2023-impacts/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/reynolds-2023-impacts/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Past and future ocean warming</title>
-      <link>https://climprocpred.github.io/publication/cheng-et-al-2022/</link>
-      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/cheng-et-al-2022/</guid>
+      <title>Multi-Model Subseasonal Prediction Skill Assessment of Water Vapor    Transport Associated With Atmospheric Rivers Over the Western US</title>
+      <link>https://example.com/publication/zhang-2023-multi/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhang-2023-multi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Greenhouse-gas forced changes in the Atlantic meridional overturning circulation and related worldwide sea-level change</title>
-      <link>https://climprocpred.github.io/publication/couldrey-et-al-2022/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/couldrey-et-al-2022/</guid>
+      <title>Observed and projected changes in snow accumulation and snowline in    California&#39;s snowy mountains</title>
+      <link>https://example.com/publication/shulgina-2023-observed/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/shulgina-2023-observed/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The future intensification of the North Atlantic winter storm track: the key role of dynamic ocean coupling</title>
-      <link>https://climprocpred.github.io/publication/chemke-et-al-2022/</link>
-      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/chemke-et-al-2022/</guid>
+      <title>Signals of northward propagating monsoon intraseasonal oscillations (MISOs) in the RegCM4.7 CORDEX-CORE simulation over South Asia domain</title>
+      <link>https://example.com/publication/ghosh-2023-signals/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ghosh-2023-signals/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Relating patterns of added and redistributed ocean warming</title>
-      <link>https://climprocpred.github.io/publication/newsom-et-al-2022/</link>
-      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/newsom-et-al-2022/</guid>
+      <title>Using Deep Learning for an Analysis of Atmospheric Rivers in a    High-Resolution Large Ensemble Climate Data Set</title>
+      <link>https://example.com/publication/higgins-2023-using/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/higgins-2023-using/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Influence of Warming Patterns on Passive Ocean Heat Uptake</title>
-      <link>https://climprocpred.github.io/publication/newsom-et-al-2021/</link>
-      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/newsom-et-al-2021/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data</title>
-      <link>https://climprocpred.github.io/publication/loose-et-al-2022/</link>
-      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/loose-et-al-2022/</guid>
+      <title>Waves in SKRIPS: WAVEWATCH III coupling implementation and a case study    of Tropical Cyclone Mekunu</title>
+      <link>https://example.com/publication/sun-2023-waves/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sun-2023-waves/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Evaluation of the Local Sea-Level Budget at Tide Gauges Since 1958</title>
-      <link>https://climprocpred.github.io/publication/wang-et-al-2021/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/wang-et-al-2021/</guid>
+      <title>Annual Modulation of Diurnal Winds in the Tropical Oceans</title>
+      <link>https://example.com/publication/giglio-2022-annual/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/giglio-2022-annual/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Stochastic-Deep Learning Parameterization of Ocean Momentum Forcing</title>
-      <link>https://climprocpred.github.io/publication/guillaumin-zanna-2021/</link>
-      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/guillaumin-zanna-2021/</guid>
+      <title>Atmospheric River Reconnaissance Workshop Promotes Research and    Operations Partnership</title>
+      <link>https://example.com/publication/wilson-2022-atmospheric/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wilson-2022-atmospheric/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>What causes the spread of model projections of sea level change in response to greenhouse gas forcing?</title>
-      <link>https://climprocpred.github.io/publication/couldrey-et-al-2020/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/couldrey-et-al-2020/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Focused Observations for Expanded Comprehension: Advancing Tropical    Pacific Coupled Modeling and Process Understanding</title>
+      <link>https://example.com/publication/demott-2022-focused/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/demott-2022-focused/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Resolving and Parameterising the Ocean Mesoscale in Earth System Models</title>
-      <link>https://climprocpred.github.io/publication/hewitt-et-al-2020/</link>
-      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/hewitt-et-al-2020/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Focusing and Defocusing of Tropical Cyclone Generated Waves by Ocean    Current Refraction</title>
+      <link>https://example.com/publication/sun-2022-focusing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sun-2022-focusing/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>The causes of sea-level rise since 1900</title>
-      <link>https://climprocpred.github.io/publication/fredericksen-et-al-2020/</link>
-      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/fredericksen-et-al-2020/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Insights into the quantification and reporting of model-related    uncertainty across different disciplines</title>
+      <link>https://example.com/publication/simmonds-2022-insights/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/simmonds-2022-insights/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Heat and carbon coupling reveals ocean warming due to circulation changes</title>
-      <link>https://climprocpred.github.io/publication/bronselaer-zanna-2020/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/bronselaer-zanna-2020/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Overcoming the Challenges of Ocean Data Uncertainty</title>
+      <link>https://example.com/publication/elipot-2022-overcoming/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/elipot-2022-overcoming/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Radiative effects of clouds and water vapor on the monsoon</title>
-      <link>https://climprocpred.github.io/publication/byrne-zanna-2020/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/byrne-zanna-2020/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Probabilistic Predictions from Deterministic Atmospheric River Forecasts    with Deep Learning</title>
+      <link>https://example.com/publication/chapman-2022-probabilistic/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/chapman-2022-probabilistic/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Data-Driven Equation Discovery of Ocean Mesoscale Closures</title>
-      <link>https://climprocpred.github.io/publication/zanna-bolton-2020/</link>
-      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/zanna-bolton-2020/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Weakening of Indian Summer Monsoon Synoptic Activity in Response to    Polar Sea Ice Melt Induced by Albedo Reduction in a Climate Model</title>
+      <link>https://example.com/publication/chandra-2022-weakening/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/chandra-2022-weakening/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Ocean-Only FAFMIP: Understanding Regional Patterns of Ocean Heat Content and Dynamic Sea Level Change</title>
-      <link>https://climprocpred.github.io/publication/todd-et-al-2020/</link>
-      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/todd-et-al-2020/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Winter wet-dry weather patterns driving atmospheric rivers and Santa Ana    winds provide evidence for increasing wildfire hazard in California</title>
+      <link>https://example.com/publication/guirguis-2022-winter/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/guirguis-2022-winter/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Response of Storm-Related Extreme Sea Level along the U.S. Atlantic Coast to Combined Weather and Climate Forcing</title>
-      <link>https://climprocpred.github.io/publication/yin-et-al-2019/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/yin-et-al-2019/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Bay of Bengal Intraseasonal Oscillations and the 2018 Monsoon Onset</title>
+      <link>https://example.com/publication/shroyer-2021-bay/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/shroyer-2021-bay/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Identifying a human signal in the North Atlantic warming hole</title>
-      <link>https://climprocpred.github.io/publication/chemke-et-al-2020/</link>
-      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/chemke-et-al-2020/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Data Gaps within Atmospheric Rivers over the Northeastern Pacific</title>
+      <link>https://example.com/publication/zheng-2021-data/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zheng-2021-data/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Surface constraints on the depth of the Atlantic Meridional Overturning Circulation: Southern Ocean vs North Atlantic</title>
-      <link>https://climprocpred.github.io/publication/sun-et-al-2019/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/sun-et-al-2019/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Enhancing ensemble data assimilation into one-way-coupled models with    one-step-ahead smoothing</title>
+      <link>https://example.com/publication/raboudi-2021-enhancing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/raboudi-2021-enhancing/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Assessing External and Internal Sources of Atlantic Multidecadal Variability Using Models, Proxy Data, and Early Instrumental Indices</title>
-      <link>https://climprocpred.github.io/publication/oreilly-et-al-2019/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/oreilly-et-al-2019/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Improved Forecast Skill Through the Assimilation of Dropsonde    Observations From the Atmospheric River Reconnaissance Program</title>
+      <link>https://example.com/publication/zheng-2021-improved/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zheng-2021-improved/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An interdecadal shift of the extratropical ENSO teleconnection during boreal summer</title>
-      <link>https://climprocpred.github.io/publication/oreilly-et-al-2019a/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/oreilly-et-al-2019a/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Initialized Earth System prediction from subseasonal to decadal    timescales</title>
+      <link>https://example.com/publication/meehl-2021-initialized/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/meehl-2021-initialized/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Climate model uncertainty and trend detection of regional sea level projections in the open ocean and coastal zone</title>
-      <link>https://climprocpred.github.io/publication/carson-et-al-2019/</link>
-      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/carson-et-al-2019/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Monthly Modulations of ENSO Teleconnections: Implications for Potential    Predictability in North America</title>
+      <link>https://example.com/publication/chapman-2021-monthly/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/chapman-2021-monthly/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Towards Comprehensive Observing and Modeling Systems for Monitoring and Predicting Regional to Coastal Sea Level</title>
-      <link>https://climprocpred.github.io/publication/ponte-et-al-2019/</link>
-      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/ponte-et-al-2019/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>The Role of Air-Sea Interactions in Atmospheric Rivers: Case Studies    Using the SKRIPS Regional Coupled Model</title>
+      <link>https://example.com/publication/sun-2021-role/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sun-2021-role/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Investigating the predictability of North Atlantic sea surface heighty</title>
-      <link>https://climprocpred.github.io/publication/fraser-et-al-2019/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/fraser-et-al-2019/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Towards an End-to-End Analysis and Prediction System for Weather,    Climate, and Marine Applications in the Red Sea</title>
+      <link>https://example.com/publication/hoteit-2021-towards/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hoteit-2021-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards implementing artificial intelligence post-processing in weather    and climate: proposed actions from the Oxford 2019 workshop</title>
+      <link>https://example.com/publication/haupt-2021-towards/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/haupt-2021-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tropical Pacific Air-Sea Interaction Processes and Biases in CESM2 and    Their Relation to El Nino Development</title>
+      <link>https://example.com/publication/wei-2021-tropical/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wei-2021-tropical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty Quantification and Bayesian Inference of Cloud    Parameterization in the NCAR Single Column Community Atmosphere Model (SCAM6)</title>
+      <link>https://example.com/publication/pathak-2021-uncertainty/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pathak-2021-uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Reliability Budget Analysis of CESM-DART</title>
+      <link>https://example.com/publication/eliashiv-2020-reliability/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/eliashiv-2020-reliability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation and prediction of the upper ocean circulation in the Bay of    Bengal</title>
+      <link>https://example.com/publication/gopalakrishnan-2020-estimation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/gopalakrishnan-2020-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecast Errors and Uncertainties in Atmospheric Rivers</title>
+      <link>https://example.com/publication/lavers-2020-forecast/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/lavers-2020-forecast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Four Atmospheric Circulation Regimes Over the North Pacific and Their    Relationship to California Precipitation on Daily to Seasonal Timescales</title>
+      <link>https://example.com/publication/guirguis-2020-four/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/guirguis-2020-four/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Does El Nino-Southern Oscillation Change Under Global Warming-A    First Look at CMIP6</title>
+      <link>https://example.com/publication/fredriksen-2020-how/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fredriksen-2020-how/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Stochastic Parameterization: Generative Adversarial    Networks in the Lorenz `96 Model</title>
+      <link>https://example.com/publication/gagne-2020-machine/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/gagne-2020-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasonal-to-interannual prediction of North American coastal marine    ecosystems: Forecast methods, mechanisms of predictability, and priority developments</title>
+      <link>https://example.com/publication/jacox-2020-seasonal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/jacox-2020-seasonal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tropical climate variability in the Community Earth System Model: Data    Assimilation Research Testbed</title>
+      <link>https://example.com/publication/eliashiv-2020-tropical/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/eliashiv-2020-tropical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>West Coast Forecast Challenges and Development of Atmospheric River    Reconnaissance</title>
+      <link>https://example.com/publication/ralph-2020-west/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ralph-2020-west/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Limited Role for Unforced Internal Variability in Twentieth-Century    Warming</title>
+      <link>https://example.com/publication/haustein-2019-limited/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/haustein-2019-limited/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Stochastic Representation of Subgrid Uncertainty for Dynamical Core    Development</title>
+      <link>https://example.com/publication/subramanian-2019-stochastic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/subramanian-2019-stochastic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composite physical-biological El Nino and La Nina conditions in the    California Current System in CESM1-POP2-BEC</title>
+      <link>https://example.com/publication/cordero-quiros-2019-composite/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/cordero-quiros-2019-composite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupled effects of ocean current on wind stress in the Bay of Bengal:    Eddy energetics and upper ocean stratification</title>
+      <link>https://example.com/publication/seo-2019-coupled/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/seo-2019-coupled/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El Nino-Like Physical and Biogeochemical Ocean Response to Tropical    Eruptions</title>
+      <link>https://example.com/publication/eddebbar-2019-el/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/eddebbar-2019-el/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>ENSO Bimodality and Extremes</title>
-      <link>https://climprocpred.github.io/publication/rodrigues-et-al-2019/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/rodrigues-et-al-2019/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Remote and local influences in forecasting Pacific SST: a linear inverse model and a multimodel ensemble study</title>
-      <link>https://climprocpred.github.io/publication/dias-et-al-2018/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/dias-et-al-2018/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Global reconstruction of historical ocean heat storage and transport</title>
-      <link>https://climprocpred.github.io/publication/zanna-et-al-2017b/</link>
-      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/zanna-et-al-2017b/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Applications of Deep Learning to Ocean Data Inference and Subgrid Parameterization</title>
-      <link>https://climprocpred.github.io/publication/bolton-et-al-2019/</link>
+      <link>https://example.com/publication/rodrigues-2019-enso/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/bolton-et-al-2019/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Applications of Deep Learning to Ocean Data Inference and Subgrid Parameterization</title>
-      <link>https://climprocpred.github.io/publication/bolton-zanna-2018/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/bolton-zanna-2018/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Uncertainty and scale interactions in ocean ensembles: From seasonal forecasts to multidecadal climate predictions</title>
-      <link>https://climprocpred.github.io/publication/zanna-et-al-2018/</link>
-      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/zanna-et-al-2018/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The impact of tropical precipitation on summertime Euro-Atlantic circulation via a circumglobal wave-train</title>
-      <link>https://climprocpred.github.io/publication/oreilly-et-al-2018/</link>
-      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/oreilly-et-al-2018/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Seasonal to annual ocean forecasting skill and the role of model and observational uncertainty</title>
-      <link>https://climprocpred.github.io/publication/juricke-et-al-2018/</link>
-      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/juricke-et-al-2018/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Eddy-mixing entropy and its maximization in forced-dissipative geostrophic turbulence</title>
-      <link>https://climprocpred.github.io/publication/david-et-al-2018/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/david-et-al-2018/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Signature of Oceanic Processes in Decadal Extratropical SST Anomalies</title>
-      <link>https://climprocpred.github.io/publication/oreilly-zanna-2018/</link>
-      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/oreilly-zanna-2018/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The relationship between a deformation-based eddy parameterization and the LANS-α turbulence model</title>
-      <link>https://climprocpred.github.io/publication/bachman-et-al-2018/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/bachman-et-al-2018/</guid>
+      <guid>https://example.com/publication/rodrigues-2019-enso/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Southern Ocean carbon-wind stress feedback</title>
-      <link>https://climprocpred.github.io/publication/bronselaer-et-al-2017/</link>
-      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/bronselaer-et-al-2017/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Experimental Subseasonal-to-Seasonal (S2S) Forecasting of Atmospheric    Rivers Over the Western United States</title>
+      <link>https://example.com/publication/deflorio-2019-experimental/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/deflorio-2019-experimental/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Lagrangian ocean analysis: Fundamentals and practices</title>
-      <link>https://climprocpred.github.io/publication/vansebille-et-al-2017/</link>
+      <title>Integrated Observations of Global Surface Winds, Currents, and Waves:    Requirements and Challenges for the Next Decade</title>
+      <link>https://example.com/publication/boas-2019-integrated/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/boas-2019-integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observational Needs for Improving Ocean and Coupled Reanalysis, S2S    Prediction, and Decadal Prediction</title>
+      <link>https://example.com/publication/penny-2019-observational/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/penny-2019-observational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observational Needs Supporting Marine Ecosystems Modeling and    Forecasting: From the Global Ocean to Regional and Coastal Systems</title>
+      <link>https://example.com/publication/capotondi-2019-observational/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/capotondi-2019-observational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocean Observations to Improve Our Understanding, Modeling, and    Forecasting of Subseasonal-to-Seasonal Variability</title>
+      <link>https://example.com/publication/subramanian-2019-ocean/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/subramanian-2019-ocean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictability of US West Coast Ocean Temperatures is not solely due to    ENSO</title>
+      <link>https://example.com/publication/capotondi-2019-predictability/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/capotondi-2019-predictability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote and local influences in forecasting Pacific SST: a linear inverse    model and a multimodel ensemble study</title>
+      <link>https://example.com/publication/dias-2019-remote/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dias-2019-remote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SKRIPS v1.0: a regional coupled ocean-atmosphere modeling framework    (MITgcm-WRF) using ESMF/NUOPC, description and preliminary results for the Red Sea</title>
+      <link>https://example.com/publication/sun-2019-skrips/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sun-2019-skrips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atmospheric River Tracking Method Intercomparison Project (ARTMIP): Project Goals and Experimental Design</title>
+      <link>https://example.com/publication/shields-2018-atmospheric/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/vansebille-et-al-2017/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Dynamical Influence of the Atlantic Multidecadal Oscillation on Continental Climate</title>
-      <link>https://climprocpred.github.io/publication/oreilly-et-al-2016/</link>
-      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/oreilly-et-al-2016/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Impact of Horizontal Resolution on Energy Transfers in Global Ocean Models</title>
-      <link>https://climprocpred.github.io/publication/kjellsson-zanna-2017/</link>
-      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/kjellsson-zanna-2017/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stochastic Subgrid-Scale Ocean Mixing: Impacts on Low-Frequency Variability</title>
-      <link>https://climprocpred.github.io/publication/juricke-et-al-2017/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/juricke-et-al-2017/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A note on ‘Toward a stochastic parameterization of ocean mesoscale eddies’</title>
-      <link>https://climprocpred.github.io/publication/grooms-zanna-2017/</link>
-      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/grooms-zanna-2017/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The statistical nature of turbulent barotropic ocean jets</title>
-      <link>https://climprocpred.github.io/publication/david-et-al-2017/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/david-et-al-2017/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Scale-Aware Deterministic and Stochastic Parametrizations of Eddy-Mean Flow Interaction</title>
-      <link>https://climprocpred.github.io/publication/zanna-et-al-2017/</link>
-      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/zanna-et-al-2017/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Drivers of uncertainty in simulated ocean circulation and heat uptake</title>
-      <link>https://climprocpred.github.io/publication/huber-zanna-2017/</link>
-      <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/huber-zanna-2017/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Seasonal and decadal forecasts of Atlantic Sea surface temperatures using a linear inverse model</title>
-      <link>https://climprocpred.github.io/publication/huddart-et-al-2016/</link>
-      <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/huddart-et-al-2016/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Suppression of Atlantic Meridional Overturning Circulation Variability at increased CO2</title>
-      <link>https://climprocpred.github.io/publication/macmartin-et-al-2016/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/macmartin-et-al-2016/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The influence of Southern Ocean winds on the North Atlantic carbon sink</title>
-      <link>https://climprocpred.github.io/publication/bronselaer-et-al-2016/</link>
-      <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/bronselaer-et-al-2016/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A deformation-based parametrization of ocean mesoscale eddy Reynolds stresses</title>
-      <link>https://climprocpred.github.io/publication/anstey-zanna-2017/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/anstey-zanna-2017/</guid>
+      <guid>https://example.com/publication/shields-2018-atmospheric/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Oceanic stochastic parametrizations in a seasonal forecast system</title>
-      <link>https://climprocpred.github.io/publication/andrejczuk-et-al-2016/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/andrejczuk-et-al-2016/</guid>
+      <title>Circulation Drivers of Atmospheric Rivers at the North American West Coast</title>
+      <link>https://example.com/publication/guirguis-2018-circulation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/guirguis-2018-circulation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The signature of low-frequency oceanic forcing in the Atlantic Multidecadal Oscillation</title>
-      <link>https://climprocpred.github.io/publication/oreilly-et-al-2017/</link>
-      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/oreilly-et-al-2017/</guid>
+      <title>Improving Weather Forecast Skill through Reduced-Precision Data    Assimilation</title>
+      <link>https://example.com/publication/hatfield-2018-improving/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hatfield-2018-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity Studies of the Red Sea Eddies Using Adjoint Method</title>
+      <link>https://example.com/publication/zhan-2018-sensitivity-1/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhan-2018-sensitivity-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity Studies of the Red Sea Eddies Using Adjoint Method</title>
+      <link>https://example.com/publication/zhan-2018-sensitivity-2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhan-2018-sensitivity-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Characteristics of Long-Term High-Resolution Precipitable    Water Vapor Data at Darwin</title>
+      <link>https://example.com/publication/leung-2018-statistical-2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/leung-2018-statistical-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Characteristics of Long-Term High-Resolution Precipitable Water Vapor Data at Darwin</title>
+      <link>https://example.com/publication/leung-2018-statistical-1/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/leung-2018-statistical-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Risks of Contracting the Acquisition and Processing of the Nation&#39;s    Weather and Climate Data to the Private Sector (vol 99, pg 869, 2018)</title>
+      <link>https://example.com/publication/serra-2018-risks/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/serra-2018-risks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A study of reduced numerical precision to make superparameterization    more competitive using a hardware emulator in the OpenIFS model</title>
+      <link>https://example.com/publication/duben-2017-study/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/duben-2017-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate SPHINX: evaluating the impact of resolution and stochastic    physics parameterisations in the EC-Earth global climate model</title>
+      <link>https://example.com/publication/davini-2017-climate/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/davini-2017-climate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble superparameterization versus stochastic parameterization: A comparison of model uncertainty representation in tropical weather prediction</title>
+      <link>https://example.com/publication/subramanian-2017-ensemble/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/subramanian-2017-ensemble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of stochastic physics on tropical precipitation in the coupled    ECMWF model</title>
+      <link>https://example.com/publication/subramanian-2017-impact/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/subramanian-2017-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maintaining Momentum in Climate Model Development</title>
+      <link>https://example.com/publication/ummenhofer-2017-maintaining/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ummenhofer-2017-maintaining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasonal and decadal forecasts of Atlantic Sea surface temperatures    using a linear inverse model</title>
+      <link>https://example.com/publication/huddart-2017-seasonal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/huddart-2017-seasonal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic representations of model uncertainties at ECMWF: state of the    art and future vision</title>
+      <link>https://example.com/publication/leutbecher-2017-stochastic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/leutbecher-2017-stochastic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of wind gusts in upper ocean diurnal variability</title>
+      <link>https://example.com/publication/giglio-2017-role/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/giglio-2017-role/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of High-Resolution Precipitable Water Data by a Stochastic    Model with a Random Trigger</title>
+      <link>https://example.com/publication/leung-2016-simulation/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/leung-2016-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The eddy kinetic energy budget in the Red Sea</title>
+      <link>https://example.com/publication/zhan-2016-eddy/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhan-2016-eddy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://example.com/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Optimisation of an idealised ocean model: stochastic parametrisation of sud-grid eddies</title>
-      <link>https://climprocpred.github.io/publication/cooper-et-al-2015/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/cooper-et-al-2015/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>The physical oceanographic environment during the CCE-LTER Years:    Changes in climate and concepts</title>
+      <link>https://example.com/publication/miller-2015-physical/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/miller-2015-physical/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>A Conceptual Model of Ocean Heat Uptake under Climate Change</title>
-      <link>https://climprocpred.github.io/publication/marshall-zanna-2014/</link>
-      <pubDate>Sat, 15 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/marshall-zanna-2014/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>The skill of atmospheric linear inverse models in hindcasting the    Madden-Julian Oscillation</title>
+      <link>https://example.com/publication/cavanaugh-2015-skill/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/cavanaugh-2015-skill/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Toward a stochastic parameterization of ocean mesoscale eddies</title>
-      <link>https://climprocpred.github.io/publication/portamana-zanna-2014/</link>
-      <pubDate>Fri, 25 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/portamana-zanna-2014/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Coupled Impacts of the Diurnal Cycle of Sea Surface Temperature on the    Madden-Julian Oscillation</title>
+      <link>https://example.com/publication/seo-2014-coupled/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/seo-2014-coupled/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Frequency Domain Multimodel Analysis of the Response of Atlantic Meridional Overturning Circulation to Surface Forcing</title>
-      <link>https://climprocpred.github.io/publication/macmartin-et-al-2013/</link>
-      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/macmartin-et-al-2013/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Diagnosing MJO hindcast biases in NCAR CAM3 using nudging during the DYNAMO field campaign</title>
+      <link>https://example.com/publication/subramanian-2014-diagnosing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/subramanian-2014-diagnosing/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Tide-surge adjoint modelling: a new technique to understand forecast uncertainty</title>
-      <link>https://climprocpred.github.io/publication/wilson-et-al-2013/</link>
-      <pubDate>Sat, 24 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/wilson-et-al-2013/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Eddies in the Red Sea: A statistical and dynamical study</title>
+      <link>https://example.com/publication/zhan-2014-eddies/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhan-2014-eddies/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Singular vectors, predictability and ensemble forecasting for weather and climate</title>
-      <link>https://climprocpred.github.io/publication/palmer-zanna-2013/</link>
-      <pubDate>Tue, 04 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/palmer-zanna-2013/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>The MJO and global warming: a study in CCSM4</title>
+      <link>https://example.com/publication/subramanian-2014-mjo/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/subramanian-2014-mjo/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Forecast Skill and Predictability of Observed Atlantic Sea Surface Temperatures</title>
-      <link>https://climprocpred.github.io/publication/zanna-2012/</link>
-      <pubDate>Sun, 15 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/zanna-2012/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>An Adjoint-Based Adaptive Ensemble Kalman Filter</title>
+      <link>https://example.com/publication/song-2013-adjoint/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/song-2013-adjoint/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Upper-ocean singular vectors of the North Atlantic climate with implications for linear predictability and variability</title>
-      <link>https://climprocpred.github.io/publication/zanna-et-al-2012/</link>
-      <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/zanna-et-al-2012/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Linear versus Nonlinear Filtering with Scale-Selective Corrections for Balanced Dynamics in a Simple Atmospheric Model</title>
+      <link>https://example.com/publication/subramanian-2012-linear/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/subramanian-2012-linear/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Optimal Excitation of Interannual Atlantic Meridional Overturning Circulation Variability</title>
-      <link>https://climprocpred.github.io/publication/zanna-et-al-2011/</link>
-      <pubDate>Sat, 15 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/zanna-et-al-2011/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>The Madden-Julian Oscillation in CCSM4</title>
+      <link>https://example.com/publication/subramanian-2011-madden/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/subramanian-2011-madden/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>The role of ocean dynamics in the optimal growth of tropical SST anomalies</title>
-      <link>https://climprocpred.github.io/publication/zanna-et-al-2010/</link>
-      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/zanna-et-al-2010/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Optimal Surface Excitation of the Thermohaline Circulation</title>
-      <link>https://climprocpred.github.io/publication/zanna-tziperman-2008/</link>
-      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/zanna-tziperman-2008/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Nonnormal Thermohaline Circulation Dynamics in a Coupled Ocean–Atmosphere GCM</title>
-      <link>https://climprocpred.github.io/publication/tziperman-et-al-2008/</link>
-      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/tziperman-et-al-2008/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Nonnormal Amplification of the Thermohaline Circulation</title>
-      <link>https://climprocpred.github.io/publication/zanna-tziperman-2005/</link>
-      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/zanna-tziperman-2005/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>An Adaptive Approach to Mitigate Background Covariance Limitations in the Ensemble Kalman Filter</title>
+      <link>https://example.com/publication/song-2010-adaptive/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/song-2010-adaptive/</guid>
+      <description></description>
     </item>
     
   </channel>

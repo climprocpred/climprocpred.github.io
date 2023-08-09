@@ -1,61 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Climate Processes &amp; Predictability @ CUB</title>
-    <link>https://climprocpred.github.io/publication-type/3/</link>
-      <atom:link href="https://climprocpred.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <title>3 | Academic</title>
+    <link>https://example.com/publication-type/3/</link>
+      <atom:link href="https://example.com/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://climprocpred.github.io/media/icon_hub370ab1a34d7d9fe5734b6e9fabbc174_24334_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
-      <link>https://climprocpred.github.io/publication-type/3/</link>
+      <link>https://example.com/publication-type/3/</link>
     </image>
     
     <item>
-      <title>Deep learning of systematic sea ice model errors from data assimilation increments</title>
-      <link>https://climprocpred.github.io/publication/gregory-et-al-2023/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/gregory-et-al-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring the non-stationarity of coastal sea level probability distributions</title>
-      <link>https://climprocpred.github.io/publication/falasca-et-al-2022/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/falasca-et-al-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model</title>
-      <link>https://climprocpred.github.io/publication/perezhogin-et-al-2023/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/perezhogin-et-al-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Global Pycnocline depth constrains Ocean Heat Uptake Efficiency</title>
-      <link>https://climprocpred.github.io/publication/newsom-et-al-2023/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/newsom-et-al-2023/</guid>
+      <title>An example preprint / working paper</title>
+      <link>https://example.com/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Implementation and Evaluation of a Machine Learned Mesoscale Eddy Parameterization into a Numerical Ocean Circulation Model</title>
-      <link>https://climprocpred.github.io/publication/zhang-et-al-2023/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://climprocpred.github.io/publication/zhang-et-al-2023/</guid>
-      <description></description>
     </item>
     
   </channel>
