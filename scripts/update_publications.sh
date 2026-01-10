@@ -49,7 +49,7 @@ cp -r publication "backup/publication_$(date +%Y%m%d_%H%M%S)" || true
 # Import publications
 echo -e "${YELLOW}Importing publications...${NC}"
 cd publication
-academic import --bibtex $(basename "$BIB_FILE") --overwrite
+academic import --bibtex $(basename "$BIB_FILE") . --overwrite
 cd ..
 
 echo ""

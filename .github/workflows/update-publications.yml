@@ -55,7 +55,7 @@ jobs:
       - name: Import publications from BibTeX
         run: |
           cd publication
-          academic import --bibtex $(basename ${{ steps.find-bib.outputs.bib_file }}) --overwrite
+          academic import --bibtex $(basename ${{ steps.find-bib.outputs.bib_file }}) . --overwrite
           cd ..
         continue-on-error: true
 
