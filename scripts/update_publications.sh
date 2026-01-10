@@ -26,8 +26,8 @@ fi
 # Find BibTeX file
 if [ -n "$1" ]; then
     BIB_FILE="$1"
-elif [ -f "publication/ReadCube_export_2023-8-8.bib" ]; then
-    BIB_FILE="publication/ReadCube_export_2023-8-8.bib"
+elif [ -f "publication/ReadCube_export.bib" ]; then
+    BIB_FILE="publication/ReadCube_export.bib"
 else
     BIB_FILE=$(find publication -name "*.bib" | head -1)
 fi

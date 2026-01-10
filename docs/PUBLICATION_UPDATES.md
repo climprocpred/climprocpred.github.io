@@ -171,7 +171,7 @@ python -c "import bibtexparser; bibtexparser.load(open('publication/your_file.bi
 
 ```
 publication/
-├── ReadCube_export_2023-8-8.bib     # Your BibTeX file
+├── ReadCube_export.bib              # Your BibTeX file
 ├── author-2023-title/                # Auto-generated folders
 │   ├── index.md                      # Publication metadata
 │   └── cite.bib                      # BibTeX for this pub
