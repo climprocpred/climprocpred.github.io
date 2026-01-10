@@ -1,0 +1,94 @@
+name: Update Publications from BibTeX
+
+on:
+  # Run weekly on Monday at 2 AM UTC
+  schedule:
+    - cron: '0 2 * * 1'
+
+  # Allow manual trigger from GitHub Actions tab
+  workflow_dispatch:
+
+  # Run when BibTeX file is updated
+  push:
+    paths:
+      - 'publication/*.bib'
+      - 'publication/ReadCube_export_*.bib'
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Academic CLI
+        run: |
+          pip install -U academic
+          pip install bibtexparser
+
+      - name: Find BibTeX file
+        id: find-bib
+        run: |
+          # Find the most recent ReadCube export or any .bib file
+          BIB_FILE=$(find publication -name "ReadCube_export_*.bib" -o -name "*.bib" | head -1)
+          if [ -z "$BIB_FILE" ]; then
+            echo "No BibTeX file found!"
+            exit 1
+          fi
+          echo "bib_file=$BIB_FILE" >> $GITHUB_OUTPUT
+          echo "Found BibTeX file: $BIB_FILE"
+
+      - name: Backup existing publications
+        run: |
+          mkdir -p backup
+          cp -r publication backup/ || true
+
+      - name: Import publications from BibTeX
+        run: |
+          cd publication
+          academic import --bibtex $(basename ${{ steps.find-bib.outputs.bib_file }}) --overwrite
+          cd ..
+        continue-on-error: true
+
+      - name: Check for changes
+        id: check-changes
+        run: |
+          git add publication/
+          if git diff --staged --quiet; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "No changes detected"
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "Changes detected"
+          fi
+
+      - name: Commit and push if changed
+        if: steps.check-changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add publication/
+          git commit -m "Auto-update publications from BibTeX [skip ci]
+
+          - Imported from: ${{ steps.find-bib.outputs.bib_file }}
+          - Updated by: GitHub Actions
+          - Date: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## Publication Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **BibTeX file**: ${{ steps.find-bib.outputs.bib_file }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Changes detected**: ${{ steps.check-changes.outputs.changes }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Status**: ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
