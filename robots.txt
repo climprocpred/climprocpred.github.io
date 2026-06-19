@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://climprocpred.github.io/sitemap.xml
